@@ -8,11 +8,20 @@
     {% seo %}
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
   </head>
-  <body>
+  <body class="{% if page.url == '/' %}home-page{% endif %}">
     <header class="site-header">
-      <div class="container">
-        <a class="brand" href="{{ '/' | relative_url }}">{{ site.title }}</a>
-        <nav class="site-nav" aria-label="Navigazione principale">
+      <div class="container nav-container">
+        <a class="brand" href="{{ '/' | relative_url }}">
+          <span class="brand-mark" aria-hidden="true"></span>
+          <span class="brand-text">{{ site.title }}</span>
+        </a>
+        <input type="checkbox" id="nav-toggle" class="nav-toggle-checkbox" aria-label="Apri il menu principale">
+        <label class="nav-toggle" for="nav-toggle">
+          <span class="nav-toggle-bar"></span>
+          <span class="nav-toggle-bar"></span>
+          <span class="nav-toggle-bar"></span>
+        </label>
+        <nav class="site-nav" id="primary-navigation" aria-label="Navigazione principale">
           <ul class="nav-list">
             {% for item in site.nav %}
               <li class="nav-item{% if item.children %} has-children{% endif %}">
@@ -31,7 +40,7 @@
       </div>
     </header>
 
-    <main class="container" id="contenuto">
+    <main class="container main-content" id="contenuto">
       {% if page.title and page.layout != 'home' %}
         <h1 class="page-title">{{ page.title }}</h1>
       {% endif %}
