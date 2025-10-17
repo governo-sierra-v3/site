@@ -1,0 +1,35 @@
+# Configurazione principale del sito Governo Sierra V3
+title: "Governo di Sierra V3"
+description: "Portale istituzionale del Governo di Sierra V3"
+url: ""
+baseurl: ""
+
+nav:
+  - title: "Home"
+    url: "/"
+  - title: "Leggi"
+    children:
+      - title: "Codice Penale"
+        url: "/codice-penale/"
+      - title: "Codice di Procedura Penale"
+        url: "/codice-procedura-penale/"
+  - title: "Cariche"
+    children:
+      - title: "Cariche Pubbliche"
+        url: "/cariche-pubbliche/"
+      - title: "Posizioni Aperte"
+        url: "/posizioni-aperte/"
+  - title: "Aziende"
+    url: "/aziende/"
+  - title: "Segnalazioni"
+    url: "/segnalazioni/"
+
+markdown: kramdown
+theme: null
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+include:
+  - assets
+

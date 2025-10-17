@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="it">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{% if page.title %}{{ page.title }} · {% endif %}{{ site.title }}</title>
+    <meta name="description" content="{{ page.description | default: site.description }}">
+    {% seo %}
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container">
+        <a class="brand" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+        <nav class="site-nav" aria-label="Navigazione principale">
+          <ul class="nav-list">
+            {% for item in site.nav %}
+              <li class="nav-item{% if item.children %} has-children{% endif %}">
+                <a href="{{ item.url | relative_url }}" class="nav-link">{{ item.title }}</a>
+                {% if item.children %}
+                  <ul class="sub-nav" aria-label="Sotto-menu per {{ item.title }}">
+                    {% for child in item.children %}
+                      <li class="sub-nav-item"><a href="{{ child.url | relative_url }}" class="sub-nav-link">{{ child.title }}</a></li>
+                    {% endfor %}
+                  </ul>
+                {% endif %}
+              </li>
+            {% endfor %}
+          </ul>
+        </nav>
+      </div>
+    </header>
+
+    <main class="container" id="contenuto">
+      {% if page.title and page.layout != 'home' %}
+        <h1 class="page-title">{{ page.title }}</h1>
+      {% endif %}
+      {{ content }}
+    </main>
+
+    <footer class="site-footer">
+      <div class="container">
+        <p>&copy; {{ "now" | date: "%Y" }} Governo di Sierra V3. Tutti i diritti riservati.</p>
+      </div>
+    </footer>
+  </body>
+</html>
