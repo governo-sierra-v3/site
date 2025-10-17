@@ -8,19 +8,36 @@
     {% seo %}
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
   </head>
-  <body>
+  <body class="{% if page.url == '/' %}home-page{% endif %}">
+    <a class="skip-nav" href="#contenuto">Salta al contenuto principale</a>
     <header class="site-header">
-      <div class="container">
-        <a class="brand" href="{{ '/' | relative_url }}">{{ site.title }}</a>
-        <nav class="site-nav" aria-label="Navigazione principale">
+      <div class="container nav-container">
+        <a class="brand" href="{{ '/' | relative_url }}">
+          <span class="brand-mark" aria-hidden="true"></span>
+          <span class="brand-text">{{ site.title }}</span>
+        </a>
+        <input type="checkbox" id="nav-toggle" class="nav-toggle-checkbox" aria-label="Apri il menu principale">
+        <label class="nav-toggle" for="nav-toggle">
+          <span></span>
+          <span></span>
+          <span></span>
+        </label>
+        <nav class="site-nav" id="primary-navigation" aria-label="Navigazione principale">
           <ul class="nav-list">
             {% for item in site.nav %}
+              {% assign primary_link = item.url | default: item.children[0].url %}
               <li class="nav-item{% if item.children %} has-children{% endif %}">
-                <a href="{{ item.url | relative_url }}" class="nav-link">{{ item.title }}</a>
+                {% if primary_link %}
+                  <a href="{{ primary_link | relative_url }}" class="nav-link{% if item.children %} has-children-toggle{% endif %}">{{ item.title }}</a>
+                {% else %}
+                  <span class="nav-link nav-label">{{ item.title }}</span>
+                {% endif %}
                 {% if item.children %}
                   <ul class="sub-nav" aria-label="Sotto-menu per {{ item.title }}">
                     {% for child in item.children %}
-                      <li class="sub-nav-item"><a href="{{ child.url | relative_url }}" class="sub-nav-link">{{ child.title }}</a></li>
+                      <li class="sub-nav-item">
+                        <a href="{{ child.url | relative_url }}" class="sub-nav-link">{{ child.title }}</a>
+                      </li>
                     {% endfor %}
                   </ul>
                 {% endif %}
@@ -31,11 +48,15 @@
       </div>
     </header>
 
-    <main class="container" id="contenuto">
-      {% if page.title and page.layout != 'home' %}
-        <h1 class="page-title">{{ page.title }}</h1>
-      {% endif %}
-      {{ content }}
+    <main class="main-content" id="contenuto">
+      <div class="container">
+        <div class="page-frame">
+          {% if page.url != '/' and page.title %}
+            <h1 class="page-title">{{ page.title }}</h1>
+          {% endif %}
+          {{ content }}
+        </div>
+      </div>
     </main>
 
     <footer class="site-footer">
