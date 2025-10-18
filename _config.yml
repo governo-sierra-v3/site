@@ -2,7 +2,7 @@
 title: "Governo di Sierra V3"
 description: "Portale istituzionale del Governo di Sierra V3"
 url: ""
-baseurl: ""
+baseurl: "/site"
 permalink: pretty
 
 nav:
