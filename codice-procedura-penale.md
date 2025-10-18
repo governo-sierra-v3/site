@@ -4,12 +4,12 @@ title: Codice di Procedura Penale
 description: Procedure e garanzie processuali nella Sierra V3
 ---
 
-<section>
+<section class="content-section">
   <h2>Garanzie processuali</h2>
   <p>Il Codice di Procedura Penale disciplina le fasi del processo garantendo equità, diritto alla difesa e tempi certi per l'amministrazione della giustizia. Ogni cittadino ha diritto a un processo pubblico e imparziale.</p>
 </section>
 
-<section>
+<section class="content-section">
   <h2>Fasi principali</h2>
   <ol>
     <li><strong>Indagini preliminari</strong> – Coordinamento tra procure e forze dell'ordine.</li>
@@ -19,12 +19,21 @@ description: Procedure e garanzie processuali nella Sierra V3
   </ol>
 </section>
 
-<section>
+<section class="content-section">
   <h2>Modulistica</h2>
   <p>Consulta i moduli per le richieste giudiziarie più frequenti:</p>
-  <ul>
-    <li><a href="#">Istanza di accesso agli atti</a></li>
-    <li><a href="#">Richiesta di misura cautelare</a></li>
-    <li><a href="#">Domanda di patrocinio a spese dello Stato</a></li>
+  <ul class="document-list">
+    <li>
+      <span>Istanza di accesso agli atti</span>
+      <a href="#">Scarica</a>
+    </li>
+    <li>
+      <span>Richiesta di misura cautelare</span>
+      <a href="#">Scarica</a>
+    </li>
+    <li>
+      <span>Domanda di patrocinio a spese dello Stato</span>
+      <a href="#">Scarica</a>
+    </li>
   </ul>
 </section>
