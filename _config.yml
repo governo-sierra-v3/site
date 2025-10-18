@@ -3,6 +3,7 @@ title: "Governo di Sierra V3"
 description: "Portale istituzionale del Governo di Sierra V3"
 url: ""
 baseurl: ""
+permalink: pretty
 
 nav:
   - title: "Home"
@@ -32,4 +33,3 @@ plugins:
 
 include:
   - assets
-
