@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Benvenuto
+description: Portale istituzionale per cittadini, imprese e pubblica amministrazione della Sierra V3
 ---
 
 <section class="hero">
