@@ -1,3 +1,7 @@
 # Immagini del sito
 
-Aggiungi qui il file `logo-sierra.png` per mostrare il simbolo ufficiale sia nella barra di navigazione sia nella pagina di benvenuto.
+La cartella contiene le risorse grafiche utilizzate dal portale.
+
+- `logo-sierra.svg` – Logo vettoriale del Governo di Sierra V3, impiegato nella barra di navigazione e nella sezione hero.
+
+Puoi sostituire il logo con la versione ufficiale fornita dall'ufficio comunicazione mantenendo lo stesso nome del file.
