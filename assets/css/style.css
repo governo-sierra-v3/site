@@ -193,8 +193,8 @@ h4 {
   height: 42px;
   border-radius: 14px;
   background:
-    url('../images/LOGO-SIERRA.png') center/22px 22px no-repeat,
-    radial-gradient(circle at 20% 20%, rgba(255, 255, 255, 0.3), transparent 60%),
+    url('../images/LOGO-SIERRA.png') center/12px 12px no-repeat,
+    radial-gradient(circle at 10% 10%, rgba(255, 255, 255, 0.3), transparent 60%),
     linear-gradient(135deg, #0c3c5c, #1d658c);
   box-shadow: 0 8px 18px rgba(12, 60, 92, 0.35);
 }
