@@ -884,15 +884,17 @@ tbody tr:hover td {
   grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
 }
 
+
 .role-card {
-  grid-template-columns: 96px 1fr;
-  align-items: center;
-  gap: 1.1rem;
+  grid-template-columns: 1fr;
+  align-items: start;
+  gap: 1.25rem;
 }
 
 .role-media {
-  width: 96px;
-  height: 96px;
+  width: 100%;
+  max-width: 140px;
+  aspect-ratio: 1;
   border-radius: 1.1rem;
   overflow: hidden;
   background: rgba(12, 60, 92, 0.12);
@@ -900,6 +902,7 @@ tbody tr:hover td {
   align-items: center;
   justify-content: center;
   box-shadow: 0 12px 28px rgba(12, 60, 92, 0.12);
+  justify-self: start;
 }
 
 .role-media img {
