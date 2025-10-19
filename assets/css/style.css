@@ -337,6 +337,24 @@ h4 {
   gap: 1rem;
 }
 
+.article-list {
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 0.75rem;
+}
+
+.article-list dt {
+  font-weight: 600;
+  color: var(--primary-dark);
+}
+
+.article-list dd {
+  margin: 0;
+  color: var(--muted-text);
+  line-height: 1.6;
+}
+
 .content-section + .content-section {
   margin-top: 2rem;
 }
@@ -1001,6 +1019,15 @@ tbody tr:hover td {
   box-shadow: 0 12px 28px rgba(12, 60, 92, 0.16);
   margin-bottom: 0.65rem;
   justify-self: start;
+}
+
+.tile-card:not([data-icon])::before,
+.highlight-card:not([data-icon])::before,
+.stat-card:not([data-icon])::before,
+.department-card:not([data-icon])::before,
+.channel-card:not([data-icon])::before {
+  content: none;
+  display: none;
 }
 
 .stat-card::before {
