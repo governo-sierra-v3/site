@@ -193,7 +193,7 @@ h4 {
   height: 90px;
   border-radius: 18px;
   background:
-    url('../images/LOGO-SIERRA.png') center/28px 28px no-repeat,
+    url('../images/LOGO-SIERRA.png') center/48px 48px no-repeat,
     radial-gradient(circle at 10% 10%, rgba(255, 255, 255, 0.3), transparent 60%),
     linear-gradient(135deg, #0c3c5c, #1d658c);
   box-shadow: 0 10px 22px rgba(12, 60, 92, 0.32);
@@ -276,14 +276,22 @@ h4 {
 .has-children > .sub-nav {
   display: none;
   position: absolute;
-  top: calc(100% + 0.5rem);
+  top: calc(100% + 0.15rem);
   left: 0;
   background: rgba(6, 38, 58, 0.98);
-  padding: 0.75rem 0;
+  padding: 0.85rem 0 0.75rem;
   min-width: 240px;
   border-radius: 0.85rem;
   box-shadow: 0 18px 45px rgba(6, 38, 58, 0.2);
   backdrop-filter: blur(12px);
+}
+.has-children::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 100%;
+  height: 0.5rem;
 }
 
 .has-children:hover > .sub-nav,
@@ -582,12 +590,12 @@ tbody tr:hover td {
 }
 
 .hero-logo {
-  width: 220px;
-  height: 220px;
+  width: 260px;
+  height: 260px;
   margin: 0 auto;
-  border-radius: 44px;
+  border-radius: 52px;
   background:
-    url('../images/LOGO-SIERRA.png') center/110px 110px no-repeat,
+    url('../images/LOGO-SIERRA.png') center/140px 140px no-repeat,
     radial-gradient(circle at 30% 30%, rgba(255, 255, 255, 0.45), transparent 70%),
     linear-gradient(135deg, #0c3c5c, #1f6d98);
   box-shadow: 0 32px 70px rgba(12, 60, 92, 0.25);
@@ -1074,6 +1082,64 @@ tbody tr:hover td {
 
 .content-section.accent .document-list a {
   color: #fff;
+}
+
+.license-details {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 0.75rem;
+}
+
+.license-details li {
+  color: var(--muted-text);
+}
+
+.license-details strong {
+  color: var(--primary-dark);
+}
+
+.company-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 0.9rem;
+}
+
+.company-list li {
+  display: grid;
+  gap: 0.2rem;
+  padding: 1rem 1.2rem;
+  border: 1px solid var(--border-color);
+  border-radius: 1rem;
+  background: rgba(255, 255, 255, 0.88);
+  box-shadow: 0 15px 32px rgba(12, 60, 92, 0.08);
+}
+
+.company-name {
+  font-weight: 600;
+  color: var(--primary-dark);
+}
+
+.company-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.8rem;
+  font-size: 0.95rem;
+  color: var(--muted-text);
+}
+
+.company-meta span::before {
+  content: '• ';
+  color: var(--accent-color);
+  margin-right: 0.25rem;
+}
+
+.company-meta span:first-child::before {
+  content: '';
+  margin-right: 0;
 }
 
 .contact-list {

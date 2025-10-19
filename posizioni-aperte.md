@@ -51,6 +51,11 @@ description: Opportunità di lavoro nel Governo di Sierra V3
           <td>Avvocatura</td>
           <td>Domande aperte</td>
         </tr>
+        <tr>
+          <td>Agente Marshall</td>
+          <td>Los Santos Marshall</td>
+          <td>Domande aperte</td>
+        </tr>
       </tbody>
     </table>
   </div>
