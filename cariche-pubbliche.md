@@ -8,12 +8,10 @@ description: Organigramma istituzionale del Governo di Sierra V3
   <h2>Governo</h2>
   <p>Il Governo della Sierra V3 coordina l'azione esecutiva e garantisce l'attuazione delle politiche pubbliche definite dal Parlamento.</p>
   <div class="governance-grid role-grid">
-    <article>
-      <figure class="role-media">
-        <img src="{{ '/assets/images/placeholder-portrait.svg' | relative_url }}" alt="Ritratto del Governatore" loading="lazy" />
-      </figure>
+    <article class="department-card role-card" data-icon="🏛️">
       <div class="role-content">
         <h3>Governatore</h3>
+        <img src="{{ '/assets/images/placeholder-portrait.svg' | relative_url }}" alt="Ritratto del Governatore" loading="lazy" />
         <p class="role-holder">In carica: <span>Da nominare</span></p>
         <p>Rappresenta l'esecutivo, definisce l'agenda politica e assicura il coordinamento tra i dipartimenti dell'amministrazione.</p>
       </div>
