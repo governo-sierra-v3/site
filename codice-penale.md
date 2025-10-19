@@ -15,26 +15,34 @@ description: Quadro normativo penale del Governo di Sierra V3
   <div class="section-grid two-columns">
     <article class="tile-card" data-icon="🟢">
       <h3>Categoria E &ndash; Infrazioni amministrative</h3>
-      <p>Violazioni che comportano esclusivamente sanzioni pecuniarie e misure accessorie senza passaggio obbligato in tribunale.</p>
+      <p>Piccole violazioni sanzionate solo in via amministrativa, con importi inferiori a 10.000$ e senza pene detentive.</p>
     </article>
     <article class="tile-card" data-icon="🟡">
-      <h3>Categoria D &ndash; Reati minori</h3>
-      <p>Condotte che incidono sulla sicurezza urbana e sull'ordine pubblico, con pene detentive limitate e processi semplificati.</p>
+      <h3>Categoria D &ndash; Contravvenzioni</h3>
+      <p>Infrazioni amministrative di media entità punite con sanzioni tra 10.000$ e 20.000$, sempre senza reclusione.</p>
     </article>
     <article class="tile-card" data-icon="🟠">
-      <h3>Categoria C &ndash; Reati contro la persona</h3>
-      <p>Fattispecie che ledono l'incolumità individuale e la libertà, con pene graduabili in base alla gravità dell'offesa.</p>
+      <h3>Categoria C &ndash; Delitti minori</h3>
+      <p>Reati di minore gravità che prevedono multe tra 10.000$ e 30.000$ e pene detentive lievi da 3 a 10 mesi.</p>
     </article>
     <article class="tile-card" data-icon="🔴">
-      <h3>Categoria B e A &ndash; Reati gravi</h3>
-      <p>Delitti con forte impatto sulla collettività o sullo Stato che richiedono processo obbligatorio e pene elevate, sino alla reclusione prolungata.</p>
+      <h3>Categoria B &ndash; Delitti maggiori</h3>
+      <p>Fattispecie rilevanti con sanzioni amministrative tra 15.000$ e 50.000$ e reclusione media da 10 a 30 mesi.</p>
+    </article>
+    <article class="tile-card" data-icon="⚫">
+      <h3>Categoria A &ndash; Crimini gravi</h3>
+      <p>Reati di particolare gravità che richiedono il processo, con multe tra 25.000$ e 50.000$, pene da 15 a 30 mesi e sanzioni accessorie.</p>
+    </article>
+    <article class="tile-card" data-icon="⚠️">
+      <h3>Categoria S &ndash; Crimini capitali</h3>
+      <p>Reati di gravissima rilevanza sociale: processo necessario, sanzioni tra 50.000$ e 500.000$, pena da 30 mesi all'ergastolo e, se prevista, pena di morte.</p>
     </article>
   </div>
 </section>
 
 <section class="content-section accent">
   <h2>Quadro sanzionatorio</h2>
-  <p>Le tabelle seguenti raccolgono i reati previsti dal Codice Penale, organizzati per categoria. Per ogni fattispecie sono indicati il codice articolo, la descrizione sintetica, la necessità del processo, l'importo delle sanzioni amministrative, l'eventuale pena detentiva, le sanzioni accessorie e, ove previste, le pene processuali.</p>
+  <p>Le tabelle seguenti raccolgono i reati previsti dal Codice Penale, organizzati per categoria. Per ogni fattispecie sono indicati il codice articolo, la descrizione sintetica, la necessità del processo, l'importo delle sanzioni amministrative, l'eventuale pena detentiva, le sanzioni accessorie e, per i crimini di classe S, le pene processuali.</p>
 </section>
 
 <section class="content-section">
@@ -48,9 +56,7 @@ description: Quadro normativo penale del Governo di Sierra V3
           <th>Descrizione</th>
           <th>Processo</th>
           <th>Sanzione amministrativa</th>
-          <th>Pena detentiva</th>
           <th>Sanzione accessoria</th>
-          <th>Pene processuali</th>
         </tr>
       </thead>
       <tbody>
@@ -61,8 +67,6 @@ description: Quadro normativo penale del Governo di Sierra V3
           <td>No</td>
           <td>$2.000</td>
           <td>&mdash;</td>
-          <td>&mdash;</td>
-          <td>&mdash;</td>
         </tr>
         <tr>
           <td>C.P. Art 1.2</td>
@@ -70,8 +74,6 @@ description: Quadro normativo penale del Governo di Sierra V3
           <td>Parcheggiare in aree non consentite o che intralciano il traffico e i pedoni.</td>
           <td>No</td>
           <td>$3.000</td>
-          <td>&mdash;</td>
-          <td>&mdash;</td>
           <td>&mdash;</td>
         </tr>
         <tr>
@@ -81,8 +83,6 @@ description: Quadro normativo penale del Governo di Sierra V3
           <td>No</td>
           <td>$3.000</td>
           <td>&mdash;</td>
-          <td>&mdash;</td>
-          <td>&mdash;</td>
         </tr>
         <tr>
           <td>C.P. Art 1.4</td>
@@ -90,8 +90,6 @@ description: Quadro normativo penale del Governo di Sierra V3
           <td>Schiamazzi, rumori molesti o musica ad alto volume in aree residenziali.</td>
           <td>No</td>
           <td>$4.000</td>
-          <td>&mdash;</td>
-          <td>&mdash;</td>
           <td>&mdash;</td>
         </tr>
         <tr>
@@ -101,8 +99,6 @@ description: Quadro normativo penale del Governo di Sierra V3
           <td>No</td>
           <td>$4.000</td>
           <td>&mdash;</td>
-          <td>&mdash;</td>
-          <td>&mdash;</td>
         </tr>
         <tr>
           <td>C.P. Art 1.6</td>
@@ -110,8 +106,6 @@ description: Quadro normativo penale del Governo di Sierra V3
           <td>Rumori eccessivi in locali, bar o club disturbando la quiete pubblica.</td>
           <td>No</td>
           <td>$5.000</td>
-          <td>&mdash;</td>
-          <td>&mdash;</td>
           <td>&mdash;</td>
         </tr>
         <tr>
@@ -121,8 +115,6 @@ description: Quadro normativo penale del Governo di Sierra V3
           <td>No</td>
           <td>$5.000</td>
           <td>&mdash;</td>
-          <td>&mdash;</td>
-          <td>&mdash;</td>
         </tr>
         <tr>
           <td>C.P. Art 1.8</td>
@@ -130,9 +122,7 @@ description: Quadro normativo penale del Governo di Sierra V3
           <td>Circolare alla guida di un veicolo rubato o ottenuto illegalmente.</td>
           <td>No</td>
           <td>$5.000</td>
-          <td>&mdash;</td>
           <td>Sequestro del veicolo</td>
-          <td>&mdash;</td>
         </tr>
         <tr>
           <td>C.P. Art 1.9</td>
@@ -140,8 +130,6 @@ description: Quadro normativo penale del Governo di Sierra V3
           <td>Presentare denunce infondate contro terzi con dolo o malafede.</td>
           <td>No</td>
           <td>$5.000</td>
-          <td>&mdash;</td>
-          <td>&mdash;</td>
           <td>&mdash;</td>
         </tr>
         <tr>
@@ -151,8 +139,6 @@ description: Quadro normativo penale del Governo di Sierra V3
           <td>No</td>
           <td>$5.000</td>
           <td>&mdash;</td>
-          <td>&mdash;</td>
-          <td>&mdash;</td>
         </tr>
         <tr>
           <td>C.P. Art 1.11</td>
@@ -160,8 +146,6 @@ description: Quadro normativo penale del Governo di Sierra V3
           <td>Creare volontariamente ostacolo o blocco alla circolazione stradale.</td>
           <td>No</td>
           <td>$5.000</td>
-          <td>&mdash;</td>
-          <td>&mdash;</td>
           <td>&mdash;</td>
         </tr>
         <tr>
@@ -171,8 +155,6 @@ description: Quadro normativo penale del Governo di Sierra V3
           <td>No</td>
           <td>$5.000</td>
           <td>&mdash;</td>
-          <td>&mdash;</td>
-          <td>&mdash;</td>
         </tr>
         <tr>
           <td>C.P. Art 1.13</td>
@@ -181,8 +163,6 @@ description: Quadro normativo penale del Governo di Sierra V3
           <td>No</td>
           <td>$5.000</td>
           <td>&mdash;</td>
-          <td>&mdash;</td>
-          <td>&mdash;</td>
         </tr>
         <tr>
           <td>C.P. Art 1.14</td>
@@ -190,8 +170,6 @@ description: Quadro normativo penale del Governo di Sierra V3
           <td>Rivolgere insulti gravi o linguaggio offensivo a un agente in servizio.</td>
           <td>No</td>
           <td>$8.000</td>
-          <td>&mdash;</td>
-          <td>&mdash;</td>
           <td>&mdash;</td>
         </tr>
       </tbody>
@@ -210,7 +188,6 @@ description: Quadro normativo penale del Governo di Sierra V3
           <th>Descrizione</th>
           <th>Processo</th>
           <th>Sanzione amministrativa</th>
-          <th>Pena detentiva</th>
           <th>Sanzione accessoria</th>
         </tr>
       </thead>
@@ -222,7 +199,6 @@ description: Quadro normativo penale del Governo di Sierra V3
           <td>No</td>
           <td>$10.000</td>
           <td>&mdash;</td>
-          <td>&mdash;</td>
         </tr>
         <tr>
           <td>C.P. Art 2.2</td>
@@ -231,7 +207,6 @@ description: Quadro normativo penale del Governo di Sierra V3
           <td>No</td>
           <td>$10.000</td>
           <td>&mdash;</td>
-          <td>&mdash;</td>
         </tr>
         <tr>
           <td>C.P. Art 2.3</td>
@@ -239,7 +214,6 @@ description: Quadro normativo penale del Governo di Sierra V3
           <td>Guida di veicolo privo di registrazione regolare negli archivi statali.</td>
           <td>No</td>
           <td>$10.000</td>
-          <td>&mdash;</td>
           <td>Sequestro del veicolo</td>
         </tr>
         <tr>
@@ -249,7 +223,6 @@ description: Quadro normativo penale del Governo di Sierra V3
           <td>No</td>
           <td>$10.000</td>
           <td>&mdash;</td>
-          <td>&mdash;</td>
         </tr>
         <tr>
           <td>C.P. Art 2.5</td>
@@ -257,7 +230,6 @@ description: Quadro normativo penale del Governo di Sierra V3
           <td>Opporsi fisicamente o verbalmente a ordini legittimi di un agente.</td>
           <td>No</td>
           <td>$10.000</td>
-          <td>&mdash;</td>
           <td>&mdash;</td>
         </tr>
         <tr>
@@ -267,7 +239,6 @@ description: Quadro normativo penale del Governo di Sierra V3
           <td>No</td>
           <td>$10.000</td>
           <td>&mdash;</td>
-          <td>&mdash;</td>
         </tr>
         <tr>
           <td>C.P. Art 2.7</td>
@@ -275,7 +246,6 @@ description: Quadro normativo penale del Governo di Sierra V3
           <td>Minacciare verbalmente o con gesti intimidatori un pubblico ufficiale.</td>
           <td>No</td>
           <td>$10.000</td>
-          <td>&mdash;</td>
           <td>&mdash;</td>
         </tr>
         <tr>
@@ -285,7 +255,6 @@ description: Quadro normativo penale del Governo di Sierra V3
           <td>No</td>
           <td>$10.000</td>
           <td>&mdash;</td>
-          <td>&mdash;</td>
         </tr>
         <tr>
           <td>C.P. Art 2.9</td>
@@ -293,7 +262,6 @@ description: Quadro normativo penale del Governo di Sierra V3
           <td>Rubare veicolo con minaccia o violenza sul conducente.</td>
           <td>No</td>
           <td>$10.000</td>
-          <td>&mdash;</td>
           <td>&mdash;</td>
         </tr>
         <tr>
@@ -303,7 +271,6 @@ description: Quadro normativo penale del Governo di Sierra V3
           <td>No</td>
           <td>$10.000</td>
           <td>&mdash;</td>
-          <td>&mdash;</td>
         </tr>
         <tr>
           <td>C.P. Art 2.11</td>
@@ -311,7 +278,6 @@ description: Quadro normativo penale del Governo di Sierra V3
           <td>Ottenere denaro o beni con inganni, raggiri o false dichiarazioni.</td>
           <td>No</td>
           <td>$10.000</td>
-          <td>&mdash;</td>
           <td>&mdash;</td>
         </tr>
         <tr>
@@ -321,7 +287,6 @@ description: Quadro normativo penale del Governo di Sierra V3
           <td>No</td>
           <td>$10.000</td>
           <td>&mdash;</td>
-          <td>&mdash;</td>
         </tr>
         <tr>
           <td>C.P. Art 2.13</td>
@@ -330,7 +295,6 @@ description: Quadro normativo penale del Governo di Sierra V3
           <td>No</td>
           <td>$10.000</td>
           <td>&mdash;</td>
-          <td>&mdash;</td>
         </tr>
         <tr>
           <td>C.P. Art 2.14</td>
@@ -338,7 +302,6 @@ description: Quadro normativo penale del Governo di Sierra V3
           <td>Possesso di vetri oscurati oltre il 75% per eludere controlli di polizia o telecamere.</td>
           <td>No</td>
           <td>$15.000</td>
-          <td>&mdash;</td>
           <td>Sequestro del veicolo o scorta dal meccanico per toglierli</td>
         </tr>
         <tr>
@@ -347,7 +310,6 @@ description: Quadro normativo penale del Governo di Sierra V3
           <td>Accordi segreti tra aziende per alterare il mercato.</td>
           <td>No</td>
           <td>$30.000</td>
-          <td>&mdash;</td>
           <td>Chiusura dell'attività fino alla messa in regola</td>
         </tr>
         <tr>
@@ -356,7 +318,6 @@ description: Quadro normativo penale del Governo di Sierra V3
           <td>Creazione o uso di permessi e certificati falsi.</td>
           <td>No</td>
           <td>$30.000</td>
-          <td>&mdash;</td>
           <td>Chiusura dell'attività fino alla messa in regola</td>
         </tr>
         <tr>
@@ -365,7 +326,6 @@ description: Quadro normativo penale del Governo di Sierra V3
           <td>Esercizio di attività senza licenza.</td>
           <td>No</td>
           <td>$30.000</td>
-          <td>&mdash;</td>
           <td>Chiusura dell'attività fino alla messa in regola</td>
         </tr>
         <tr>
@@ -374,7 +334,6 @@ description: Quadro normativo penale del Governo di Sierra V3
           <td>Mancanza dell'aggiornamento dell'elenco del personale.</td>
           <td>No</td>
           <td>$20.000</td>
-          <td>&mdash;</td>
           <td>Multa aziendale; se 3 o più volte multa raddoppiata</td>
         </tr>
         <tr>
@@ -383,7 +342,6 @@ description: Quadro normativo penale del Governo di Sierra V3
           <td>Vendita di bevande alcoliche a una persona con meno di 21 anni.</td>
           <td>No</td>
           <td>$25.000</td>
-          <td>&mdash;</td>
           <td>Multa aziendale; seconda volta multa raddoppiata; terza volta multa triplicata + sospensione 7 gg</td>
         </tr>
         <tr>
@@ -392,7 +350,6 @@ description: Quadro normativo penale del Governo di Sierra V3
           <td>Vendita di tabacchi a una persona con meno di 18 anni.</td>
           <td>No</td>
           <td>$30.000</td>
-          <td>&mdash;</td>
           <td>Multa aziendale; seconda volta multa raddoppiata; terza volta multa triplicata + sospensione 7 gg</td>
         </tr>
         <tr>
@@ -401,7 +358,6 @@ description: Quadro normativo penale del Governo di Sierra V3
           <td>Vendita di armi senza la verifica della documentazione o registri incompleti durante un controllo.</td>
           <td>No</td>
           <td>$100.000</td>
-          <td>&mdash;</td>
           <td>Multa aziendale; seconda volta multa raddoppiata + sospensione 7 gg; terza volta multa triplicata + sospensione 14 gg; più di 3 volte multa quadruplicata e sospensione perpetua</td>
         </tr>
         <tr>
@@ -410,7 +366,6 @@ description: Quadro normativo penale del Governo di Sierra V3
           <td>Manipolazioni illegali (numeri di telaio o targhe), o aggiunte di componentistica non autorizzata dallo Stato.</td>
           <td>No</td>
           <td>$50.000</td>
-          <td>&mdash;</td>
           <td>Multa aziendale; seconda volta multa raddoppiata; terza volta multa triplicata + sospensione 7 gg</td>
         </tr>
         <tr>
@@ -419,7 +374,6 @@ description: Quadro normativo penale del Governo di Sierra V3
           <td>Alterazione dei libri contabili per occultare guadagni o debiti.</td>
           <td>No</td>
           <td>$100.000</td>
-          <td>&mdash;</td>
           <td>Multa aziendale + sospensione 7 gg; seconda volta multa raddoppiata + sospensione 7 gg; terza volta multa triplicata + sospensione 14 gg</td>
         </tr>
       </tbody>
@@ -998,7 +952,7 @@ description: Quadro normativo penale del Governo di Sierra V3
           <th>Sanzione amministrativa</th>
           <th>Pena detentiva</th>
           <th>Sanzione accessoria</th>
-          <th>Pena capitale</th>
+          <th>Pene processuali</th>
         </tr>
       </thead>
       <tbody>

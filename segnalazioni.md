@@ -32,30 +32,20 @@ description: Strumenti per inviare segnalazioni al Governo di Sierra V3
     </li>
     <li>
       <h3>Ricevi aggiornamenti</h3>
-      <p>Monitora lo stato della segnalazione tramite email o area personale.</p>
+      <p>Monitora lo stato della segnalazione tramite le comunicazioni che riceverai via email.</p>
     </li>
   </ol>
 </section>
 
-<section class="content-section support-panel">
-  <h2>Canali diretti</h2>
-  <div class="channel-grid">
-    <article class="channel-card" data-icon="✉️">
-      <h3>Modulo digitale</h3>
-      <p>Invio sicuro e cifrato delle segnalazioni con numero di protocollo automatico.</p>
-    </article>
-    <article class="channel-card" data-icon="☎️">
-      <h3>Numero verde</h3>
-      <p>Operativo 24/7 per emergenze e per l'assistenza alla compilazione del modulo.</p>
-    </article>
-    <article class="channel-card" data-icon="🏢">
-      <h3>Sportello fisico</h3>
-      <p>Ricezione su appuntamento presso Via Centrale 12, Capitalia.</p>
-    </article>
+<section class="content-section accent">
+  <h2>Invia la tua segnalazione</h2>
+  <p>Utilizza il modulo Google ufficiale per trasmettere documenti, prove e dettagli dell'episodio. I dati sono gestiti con canali sicuri e riceverai conferma via email.</p>
+  <div class="button-group">
+    <a class="button primary" href="https://forms.gle/sierra-segnalazioni" target="_blank" rel="noopener">Compila il modulo Google</a>
+    <a class="button ghost" href="mailto:integrita@sierra.gov">Assistenza via email</a>
   </div>
-  <ul class="contact-list">
-    <li>Email: <a href="mailto:integrita@sierra.gov">integrita@sierra.gov</a></li>
-    <li>Numero verde: 800 000 321</li>
-    <li>Sportello fisico: Via Centrale 12, Capitalia</li>
-  </ul>
+  <div class="form-placeholder">
+    <strong>Spazio per l'embed</strong>
+    <p>Sostituisci questo riquadro con l'iframe del modulo Google quando disponibile oppure con ulteriori istruzioni operative.</p>
+  </div>
 </section>

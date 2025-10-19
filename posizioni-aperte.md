@@ -6,26 +6,31 @@ description: Opportunità di lavoro nel Governo di Sierra V3
 
 <section class="content-section">
   <h2>Lavora con noi</h2>
-  <p>Unisciti alle strutture del Governo di Sierra V3 per contribuire alla modernizzazione del Paese. Offriamo percorsi professionali in amministrazione, tecnologia, sicurezza e servizi al cittadino.</p>
+  <p>Unisciti alle strutture del Governo di Sierra V3 per contribuire al funzionamento della giustizia e alla tutela dei cittadini. Cerchiamo professionisti motivati a operare con rigore e senso del servizio pubblico.</p>
   <div class="highlight-grid">
-    <article class="highlight-card" data-icon="💻">
-      <h3>Trasformazione digitale</h3>
-      <p>Sistemi informativi e servizi cloud per rendere la PA sempre più vicina ai cittadini.</p>
+    <article class="highlight-card" data-icon="⚖️">
+      <h3>Corte giudiziaria</h3>
+      <p>Giudici togati e personale di supporto impegnati nella gestione dei processi e nella tutela dello Stato di diritto.</p>
     </article>
     <article class="highlight-card" data-icon="🏛️">
-      <h3>Servizi istituzionali</h3>
-      <p>Policy maker e analisti per supportare l'elaborazione di piani e riforme strategiche.</p>
+      <h3>Procura</h3>
+      <p>Magistrati dell'accusa e staff legale dedicati alle indagini e al coordinamento con le forze dell'ordine.</p>
     </article>
-    <article class="highlight-card" data-icon="🛡️">
-      <h3>Sicurezza</h3>
-      <p>Specialisti in cybersecurity e protezione dei dati per tutelare infrastrutture e cittadini.</p>
+    <article class="highlight-card" data-icon="📚">
+      <h3>Avvocatura</h3>
+      <p>Difensori d'ufficio e consulenti legali che garantiscono l'assistenza ai cittadini senza risorse.</p>
     </article>
+  </div>
+  <div class="form-placeholder">
+    <strong>Modulo Google</strong>
+    <p>Integra in questo spazio il modulo ufficiale di candidatura (iframe Google Forms) o inserisci un video di presentazione del team.</p>
+    <p>Il pulsante di accesso rapido al form è disponibile nella sezione «Come candidarsi» di questa pagina.</p>
   </div>
 </section>
 
 <section class="content-section">
   <h2>Selezioni attive</h2>
-  <p>Consulta i bandi in corso e invia la tua candidatura entro la data indicata.</p>
+  <p>Consulta i bandi in corso e invia la tua candidatura tramite il modulo dedicato.</p>
   <div class="table-container">
     <table>
       <thead>
@@ -37,19 +42,19 @@ description: Opportunità di lavoro nel Governo di Sierra V3
       </thead>
       <tbody>
         <tr>
-          <td>Analista Politiche Pubbliche</td>
-          <td>Presidenza del Consiglio</td>
-          <td>31/07/2024</td>
+          <td>Giudice</td>
+          <td>Corte giudiziaria</td>
+          <td>Domande aperte</td>
         </tr>
         <tr>
-          <td>Esperto Cybersecurity</td>
-          <td>Ministero dell'Interno</td>
-          <td>15/08/2024</td>
+          <td>Procuratore distrettuale</td>
+          <td>Procura</td>
+          <td>Domande aperte</td>
         </tr>
         <tr>
-          <td>Project Manager Infrastrutture</td>
-          <td>Ministero dei Trasporti</td>
-          <td>05/09/2024</td>
+          <td>Avvocato d'ufficio</td>
+          <td>Avvocatura</td>
+          <td>Domande aperte</td>
         </tr>
       </tbody>
     </table>
@@ -60,35 +65,40 @@ description: Opportunità di lavoro nel Governo di Sierra V3
   <h2>Percorso di selezione</h2>
   <ol class="step-list">
     <li>
-      <h3>Domanda online</h3>
-      <p>Registrazione sul portale Recruiting Sierra e caricamento del curriculum aggiornato.</p>
+      <h3>Compila il modulo Google</h3>
+      <p>Accedi al form ufficiale, inserisci i dati personali e carica il curriculum aggiornato in formato PDF.</p>
     </li>
     <li>
-      <h3>Valutazione titoli</h3>
-      <p>Analisi automatica e revisione della commissione con comunicazione via email.</p>
+      <h3>Valutazione dei titoli</h3>
+      <p>La commissione della struttura competente esamina i profili e comunica l'esito preliminare via email.</p>
     </li>
     <li>
-      <h3>Prove selettive</h3>
-      <p>Test scritti e colloqui motivazionali in presenza o da remoto.</p>
+      <h3>Colloquio e prove</h3>
+      <p>Sessioni orali e pratiche in presenza o online per verificare esperienza e motivazione.</p>
     </li>
     <li>
-      <h3>Inserimento</h3>
-      <p>Formazione iniziale e assegnazione a team multidisciplinari.</p>
+      <h3>Nomina e onboarding</h3>
+      <p>Formalizzazione dell'incarico, formazione iniziale e assegnazione all'ufficio di riferimento.</p>
     </li>
   </ol>
 </section>
 
 <section class="content-section accent">
   <h2>Come candidarsi</h2>
-  <p>Consulta il bando completo, prepara il tuo curriculum aggiornato e invia la candidatura tramite il portale <a href="#">Recruiting Sierra</a>. Le selezioni prevedono prove scritte, colloqui e verifica delle competenze.</p>
+  <p>Scarica il bando di riferimento, prepara il curriculum in PDF e tieni pronti eventuali attestati professionali. Per inviare la domanda utilizza esclusivamente il modulo Google predisposto dal Governo di Sierra V3.</p>
+  <div class="button-group">
+    <a class="button primary" href="https://forms.gle/sierra-candidature" target="_blank" rel="noopener">Apri il modulo Google</a>
+    <a class="button ghost" href="mailto:recruiting@sierra.gov">Richiedi supporto</a>
+  </div>
   <ul class="document-list">
     <li>
-      <span>Manuale candidatura online</span>
+      <span>Schema di curriculum consigliato</span>
       <a href="#">Scarica</a>
     </li>
     <li>
-      <span>Linee guida per i colloqui</span>
+      <span>Linee guida per la dichiarazione di onorabilità</span>
       <a href="#">Scarica</a>
     </li>
   </ul>
 </section>
+
