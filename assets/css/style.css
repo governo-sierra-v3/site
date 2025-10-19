@@ -189,8 +189,8 @@ h4 {
 }
 
 .brand-mark {
-  width: 42px;
-  height: 42px;
+  width: 72px;
+  height: 72px;
   border-radius: 14px;
   background:
     url('../images/LOGO-SIERRA.png') center/12px 12px no-repeat,
@@ -582,8 +582,8 @@ tbody tr:hover td {
 }
 
 .hero-logo {
-  width: 120px;
-  height: 120px;
+  width: 180px;
+  height: 180px;
   margin: 0 auto;
   border-radius: 36px;
   background:
