@@ -13,39 +13,21 @@ description: Quadro normativo penale del Governo di Sierra V3
 <section class="content-section">
   <h2>Struttura del codice</h2>
   <div class="section-grid two-columns">
-    <article class="tile-card" data-icon="📘">
-      <h3>Libro I</h3>
-      <p>Disposizioni generali e principi di applicazione, con particolare attenzione alla responsabilità individuale e collettiva.</p>
+    <article class="tile-card" data-icon="🟢">
+      <h3>Categoria E &ndash; Infrazioni amministrative</h3>
+      <p>Violazioni che comportano esclusivamente sanzioni pecuniarie e misure accessorie senza passaggio obbligato in tribunale.</p>
     </article>
-    <article class="tile-card" data-icon="🛡️">
-      <h3>Libro II</h3>
-      <p>Elenco dei reati contro lo Stato, la pubblica amministrazione e la collettività con le rispettive sanzioni.</p>
+    <article class="tile-card" data-icon="🟡">
+      <h3>Categoria D &ndash; Reati minori</h3>
+      <p>Condotte che incidono sulla sicurezza urbana e sull'ordine pubblico, con pene detentive limitate e processi semplificati.</p>
     </article>
-    <article class="tile-card" data-icon="👥">
-      <h3>Libro III</h3>
-      <p>Reati contro la persona e tutele per le vittime, con misure dedicate a minori e categorie fragili.</p>
+    <article class="tile-card" data-icon="🟠">
+      <h3>Categoria C &ndash; Reati contro la persona</h3>
+      <p>Fattispecie che ledono l'incolumità individuale e la libertà, con pene graduabili in base alla gravità dell'offesa.</p>
     </article>
-    <article class="tile-card" data-icon="💼">
-      <h3>Libro IV</h3>
-      <p>Disposizioni su reati economici, digitali e contro il patrimonio pubblico.</p>
-    </article>
-  </div>
-</section>
-
-<section class="content-section">
-  <h2>Ambiti principali</h2>
-  <div class="stat-grid">
-    <article class="stat-card" data-icon="⚖️">
-      <h3>Pene proporzionate</h3>
-      <p>Le sanzioni vengono calibrate in base alla gravità del reato e all'impatto sociale, con programmi di reinserimento.</p>
-    </article>
-    <article class="stat-card" data-icon="🧾">
-      <h3>Tracciabilità</h3>
-      <p>Ogni modifica normativa è accompagnata da note esplicative e documenti di consultazione pubblica.</p>
-    </article>
-    <article class="stat-card" data-icon="🌐">
-      <h3>Cooperazione internazionale</h3>
-      <p>Accordi bilaterali e multilaterali assicurano scambio di informazioni e assistenza giudiziaria con gli alleati.</p>
+    <article class="tile-card" data-icon="🔴">
+      <h3>Categoria B e A &ndash; Reati gravi</h3>
+      <p>Delitti con forte impatto sulla collettività o sullo Stato che richiedono processo obbligatorio e pene elevate, sino alla reclusione prolungata.</p>
     </article>
   </div>
 </section>
