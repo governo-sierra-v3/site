@@ -89,11 +89,5 @@ description: Opportunità di lavoro nel Governo di Sierra V3
   <div class="button-group">
     <a class="button primary" href="https://forms.gle/g4rzFXhUeHw7GP9n6" target="_blank" rel="noopener">Apri il modulo Google</a>
   </div>
-  <ul class="document-list">
-    <li>
-      <span>Schema di curriculum consigliato</span>
-      <a href="#">Scarica</a>
-    </li>
-  </ul>
 </section>
 
