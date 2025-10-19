@@ -1159,17 +1159,3 @@ description: Quadro normativo penale del Governo di Sierra V3
   </div>
 </section>
 
-<section class="content-section accent">
-  <h2>Consulta gli allegati</h2>
-  <p>I testi consolidati e i regolamenti attuativi sono disponibili nella banca dati legislativa del Governo di Sierra V3.</p>
-  <ul class="document-list">
-    <li>
-      <span>Codice penale consolidato (PDF)</span>
-      <a href="#">Scarica</a>
-    </li>
-    <li>
-      <span>Linee guida per l'applicazione delle pene</span>
-      <a href="#">Scarica</a>
-    </li>
-  </ul>
-</section>
