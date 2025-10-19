@@ -21,11 +21,6 @@ description: Opportunità di lavoro nel Governo di Sierra V3
       <p>Difensori d'ufficio e consulenti legali che garantiscono l'assistenza ai cittadini senza risorse.</p>
     </article>
   </div>
-  <div class="form-placeholder">
-    <strong>Modulo Google</strong>
-    <p>Integra in questo spazio il modulo ufficiale di candidatura (iframe Google Forms) o inserisci un video di presentazione del team.</p>
-    <p>Il pulsante di accesso rapido al form è disponibile nella sezione «Come candidarsi» di questa pagina.</p>
-  </div>
 </section>
 
 <section class="content-section">
@@ -88,15 +83,10 @@ description: Opportunità di lavoro nel Governo di Sierra V3
   <p>Scarica il bando di riferimento, prepara il curriculum in PDF e tieni pronti eventuali attestati professionali. Per inviare la domanda utilizza esclusivamente il modulo Google predisposto dal Governo di Sierra V3.</p>
   <div class="button-group">
     <a class="button primary" href="https://forms.gle/sierra-candidature" target="_blank" rel="noopener">Apri il modulo Google</a>
-    <a class="button ghost" href="mailto:recruiting@sierra.gov">Richiedi supporto</a>
   </div>
   <ul class="document-list">
     <li>
       <span>Schema di curriculum consigliato</span>
-      <a href="#">Scarica</a>
-    </li>
-    <li>
-      <span>Linee guida per la dichiarazione di onorabilità</span>
       <a href="#">Scarica</a>
     </li>
   </ul>
