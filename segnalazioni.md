@@ -42,10 +42,5 @@ description: Strumenti per inviare segnalazioni al Governo di Sierra V3
   <p>Utilizza il modulo Google ufficiale per trasmettere documenti, prove e dettagli dell'episodio. I dati sono gestiti con canali sicuri e riceverai conferma via email.</p>
   <div class="button-group">
     <a class="button primary" href="https://forms.gle/sierra-segnalazioni" target="_blank" rel="noopener">Compila il modulo Google</a>
-    <a class="button ghost" href="mailto:integrita@sierra.gov">Assistenza via email</a>
-  </div>
-  <div class="form-placeholder">
-    <strong>Spazio per l'embed</strong>
-    <p>Sostituisci questo riquadro con l'iframe del modulo Google quando disponibile oppure con ulteriori istruzioni operative.</p>
   </div>
 </section>
