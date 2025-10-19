@@ -12,7 +12,6 @@ description: Procedure e garanzie processuali nella Sierra V3
 <section class="content-section">
   <h2>Articoli</h2>
   <div class="article-list">
-    <br>
     <article class="article-block" id="art-1">
       <h3>Art. 1 — Principi generali</h3>
       <ul>
@@ -22,7 +21,6 @@ description: Procedure e garanzie processuali nella Sierra V3
       </ul>
     </article>
 
-    <br>
     <article class="article-block" id="art-2">
       <h3>Art. 2 — Standard probatori</h3>
       <ul>
@@ -32,7 +30,6 @@ description: Procedure e garanzie processuali nella Sierra V3
       </ul>
     </article>
 
-    <br>
     <article class="article-block" id="art-3">
       <h3>Art. 3 — Fasi del procedimento preliminare</h3>
       <h4>Fermo</h4>
@@ -55,7 +52,6 @@ description: Procedure e garanzie processuali nella Sierra V3
       </ul>
     </article>
 
-    <br>
     <article class="article-block" id="art-4">
       <h3>Art. 4 — Procedimento penale</h3>
       <h4>Reati senza processo</h4>
@@ -73,7 +69,6 @@ description: Procedure e garanzie processuali nella Sierra V3
       </ul>
     </article>
 
-    <br>
     <article class="article-block" id="art-5">
       <h3>Art. 5 — Diritti dell'imputato</h3>
       <ul>
@@ -83,7 +78,6 @@ description: Procedure e garanzie processuali nella Sierra V3
       </ul>
     </article>
 
-    <br>
     <article class="article-block" id="art-6">
       <h3>Art. 6 — Prove</h3>
       <h4>Ammissibilità</h4>
@@ -92,7 +86,6 @@ description: Procedure e garanzie processuali nella Sierra V3
       <p>Le prove raccolte illegalmente (senza PC o mandato) possono essere escluse dal Giudice.</p>
     </article>
 
-    <br>
     <article class="article-block" id="art-7">
       <h3>Art. 7 — Misure cautelari</h3>
       <ul>
@@ -104,7 +97,6 @@ description: Procedure e garanzie processuali nella Sierra V3
       </ul>
     </article>
 
-    <br>
     <article class="article-block" id="art-8">
       <h3>Art. 8 — Regole processuali</h3>
       <h4>Udienza</h4>
@@ -121,7 +113,6 @@ description: Procedure e garanzie processuali nella Sierra V3
       <p>La colpevolezza è dichiarata solo se raggiunto lo standard OARD.</p>
     </article>
 
-    <br>
     <article class="article-block" id="art-9">
       <h3>Art. 9 — Mandati</h3>
       <ul>
@@ -132,7 +123,6 @@ description: Procedure e garanzie processuali nella Sierra V3
       </ul>
     </article>
 
-    <br>
     <article class="article-block" id="art-10">
       <h3>Art. 10 — Ricorsi e patteggiamenti</h3>
       <h4>Patteggiamento (plea bargain)</h4>
@@ -150,7 +140,6 @@ description: Procedure e garanzie processuali nella Sierra V3
       </ul>
     </article>
 
-    <br>
     <article class="article-block" id="art-11">
       <h3>Art. 11 — Pulizia fedina penale</h3>
       <h4>Criteri</h4>
@@ -173,8 +162,7 @@ description: Procedure e garanzie processuali nella Sierra V3
       </ul>
     </article>
 
-      <br>
-      <article class="article-block" id="art-12">
+    <article class="article-block" id="art-12">
         <h3>Art. 12 — Codice Penale</h3>
         <h4>Principio generale</h4>
         <p>Il codice penale elenca i reati applicabili da Forze dell'Ordine o giudici per garantire pene eque all'offesa.</p>

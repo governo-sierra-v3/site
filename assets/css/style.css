@@ -646,6 +646,13 @@ tbody tr:hover td {
   box-shadow: 0 20px 40px rgba(12, 60, 92, 0.35);
 }
 
+.button-group {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+  margin-top: 1.25rem;
+}
+
 .button.ghost {
   background: rgba(255, 255, 255, 0.9);
   color: var(--primary-color);
@@ -871,6 +878,70 @@ tbody tr:hover td {
   padding: 1.65rem 1.75rem;
   display: grid;
   gap: 0.6rem;
+}
+
+.role-grid {
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+}
+
+.role-card {
+  grid-template-columns: 96px 1fr;
+  align-items: center;
+  gap: 1.1rem;
+}
+
+.role-media {
+  width: 96px;
+  height: 96px;
+  border-radius: 1.1rem;
+  overflow: hidden;
+  background: rgba(12, 60, 92, 0.12);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 12px 28px rgba(12, 60, 92, 0.12);
+}
+
+.role-media img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.role-content {
+  display: grid;
+  gap: 0.4rem;
+}
+
+.role-holder {
+  margin: 0;
+  font-size: 0.9rem;
+  color: var(--muted-text);
+}
+
+.role-holder span {
+  font-weight: 600;
+  color: var(--primary-dark);
+}
+
+.role-card p:last-child {
+  margin-bottom: 0;
+}
+
+.form-placeholder {
+  margin-top: 1.5rem;
+  padding: 1.5rem 1.75rem;
+  border: 2px dashed rgba(12, 60, 92, 0.25);
+  border-radius: 1.2rem;
+  background: rgba(255, 255, 255, 0.85);
+  color: var(--muted-text);
+  display: grid;
+  gap: 0.6rem;
+}
+
+.form-placeholder strong {
+  color: var(--primary-dark);
 }
 
 .channel-grid {
