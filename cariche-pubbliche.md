@@ -5,59 +5,46 @@ description: Organigramma istituzionale del Governo di Sierra V3
 ---
 
 <section class="content-section">
-  <h2>Presidenza</h2>
-  <p>La Presidenza coordina l'azione di governo, supervisiona i ministeri e mantiene le relazioni con gli organi costituzionali e con gli alleati internazionali.</p>
-  <div class="highlight-grid">
-    <article class="highlight-card" data-icon="🎯">
-      <h3>Strategia nazionale</h3>
-      <p>Definizione degli indirizzi politici, monitoraggio degli impegni internazionali e indirizzo delle priorità legislative.</p>
-    </article>
-    <article class="highlight-card" data-icon="🤝">
-      <h3>Relazioni istituzionali</h3>
-      <p>Dialogo costante con Parlamento, Regioni e autorità indipendenti per garantire coesione e trasparenza.</p>
-    </article>
-  </div>
-</section>
-
-<section class="content-section">
-  <h2>Consiglio dei Ministri</h2>
+  <h2>Governo</h2>
+  <p>Il Governo della Sierra V3 coordina l'azione esecutiva e garantisce l'attuazione delle politiche pubbliche definite dal Parlamento.</p>
   <div class="governance-grid">
-    <article class="department-card" data-icon="⚖️">
-      <h3>Ministro della Giustizia</h3>
-      <p>Gestisce il sistema giudiziario, coordina le procure e guida le riforme normative.</p>
+    <article class="department-card" data-icon="🏛️">
+      <h3>Governatore</h3>
+      <p>Rappresenta l'esecutivo, definisce l'agenda politica e assicura il coordinamento tra i dipartimenti dell'amministrazione.</p>
     </article>
-    <article class="department-card" data-icon="🛡️">
-      <h3>Ministro dell'Interno</h3>
-      <p>Vigila sulla sicurezza nazionale, sul coordinamento delle forze di polizia e sulla protezione civile.</p>
+    <article class="department-card" data-icon="🤝">
+      <h3>Vice Governatore</h3>
+      <p>Supporta il Governatore nelle funzioni strategiche e ne garantisce la supplenza in caso di assenza o impedimento.</p>
     </article>
-    <article class="department-card" data-icon="💶">
-      <h3>Ministro dell'Economia</h3>
-      <p>Amministra le politiche fiscali, il bilancio statale e sostiene lo sviluppo industriale.</p>
-    </article>
-    <article class="department-card" data-icon="🧭">
-      <h3>Ministro del Lavoro</h3>
-      <p>Promuove occupazione, formazione e inclusione sociale con programmi mirati.</p>
+    <article class="department-card" data-icon="💼">
+      <h3>Segretario delle Finanze</h3>
+      <p>Gestisce il bilancio statale, supervisiona la spesa pubblica e coordina la pianificazione economica.</p>
     </article>
   </div>
 </section>
 
 <section class="content-section">
-  <h2>Enti collegati</h2>
-  <p>Il Governo di Sierra V3 opera in sinergia con agenzie indipendenti e autorità di vigilanza per assicurare trasparenza e integrità nelle funzioni pubbliche.</p>
-  <ul class="tag-list">
-    <li>Autorità Anticorruzione</li>
-    <li>Agenzia per l'Energia</li>
-    <li>Dipartimento Innovazione</li>
-    <li>Commissione Bilancio</li>
-  </ul>
+  <h2>Procura</h2>
+  <p>La Procura vigila sul rispetto della legge penale e dirige l'azione penale in collaborazione con le forze dell'ordine.</p>
+  <div class="highlight-grid">
+    <article class="highlight-card" data-icon="⚖️">
+      <h3>Procuratore Generale</h3>
+      <p>Coordina l'attività investigativa, assegna i fascicoli ai procuratori e rappresenta l'accusa nei casi più rilevanti.</p>
+    </article>
+    <article class="highlight-card" data-icon="🛡️">
+      <h3>Vice Procuratore Generale</h3>
+      <p>Affianca il Procuratore Generale, cura i rapporti con gli uffici periferici e garantisce la continuità operativa.</p>
+    </article>
+  </div>
 </section>
 
 <section class="content-section accent">
-  <h2>Contatta la Presidenza del Consiglio</h2>
-  <p>Per richieste istituzionali, conferenze stampa e protocolli ufficiali è attivo un team di supporto dedicato.</p>
-  <ul class="contact-list">
-    <li>Email: <a href="mailto:presidenza@sierra.gov">presidenza@sierra.gov</a></li>
-    <li>Telefono: +39 06 0000 100</li>
-    <li>Ufficio stampa: Piazza Centrale 1, Capitalia</li>
-  </ul>
+  <h2>Corte giudiziaria</h2>
+  <p>La Corte giudiziaria assicura l'imparzialità dei processi e la corretta applicazione delle norme approvate dal Parlamento.</p>
+  <div class="highlight-grid">
+    <article class="highlight-card" data-icon="📜">
+      <h3>Giudice Generale</h3>
+      <p>Presiede le udienze di maggiore rilievo, coordina l'attività dei giudici togati e vigila sulla coerenza delle sentenze.</p>
+    </article>
+  </div>
 </section>
