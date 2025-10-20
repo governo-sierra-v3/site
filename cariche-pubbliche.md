@@ -14,7 +14,7 @@ description: Organigramma istituzionale del Governo di Sierra V3
       </figure>
       <div class="role-content">
         <h3>Governatore</h3>
-        <p class="role-holder">In carica: <span>Da nominare</span></p>
+        <p class="role-holder">In carica: <span>gallo_loco_tv</span></p>
         <p>Rappresenta l'esecutivo, definisce l'agenda politica e assicura il coordinamento tra i dipartimenti dell'amministrazione.</p>
       </div>
     </article>
@@ -34,7 +34,7 @@ description: Organigramma istituzionale del Governo di Sierra V3
       </figure>
       <div class="role-content">
         <h3>Segretario delle Finanze</h3>
-        <p class="role-holder">In carica: <span>Da nominare</span></p>
+        <p class="role-holder">In carica: <span>Kar_lo_crakko</span></p>
         <p>Gestisce il bilancio statale, supervisiona la spesa pubblica e coordina la pianificazione economica.</p>
       </div>
     </article>
@@ -51,7 +51,7 @@ description: Organigramma istituzionale del Governo di Sierra V3
       </figure>
       <div class="role-content">
         <h3>Procuratore Generale</h3>
-        <p class="role-holder">In carica: <span>Da nominare</span></p>
+        <p class="role-holder">In carica: <span>Piffipiffo</span></p>
         <p>Coordina l'attività investigativa, assegna i fascicoli ai procuratori e rappresenta l'accusa nei casi più rilevanti.</p>
       </div>
     </article>
@@ -61,7 +61,7 @@ description: Organigramma istituzionale del Governo di Sierra V3
       </figure>
       <div class="role-content">
         <h3>Vice Procuratore Generale</h3>
-        <p class="role-holder">In carica: <span>Da nominare</span></p>
+        <p class="role-holder">In carica: <span>Muller34578</span></p>
         <p>Affianca il Procuratore Generale, cura i rapporti con gli uffici periferici e garantisce la continuità operativa.</p>
       </div>
     </article>
@@ -78,8 +78,42 @@ description: Organigramma istituzionale del Governo di Sierra V3
       </figure>
       <div class="role-content">
         <h3>Giudice Generale</h3>
-        <p class="role-holder">In carica: <span>Da nominare</span></p>
+        <p class="role-holder">In carica: <span>1_anxiety_1</span></p>
         <p>Presiede le udienze di maggiore rilievo, coordina l'attività dei giudici togati e vigila sulla coerenza delle sentenze.</p>
+      </div>
+    </article>
+  </div>
+</section>
+
+<section class="content-section">
+  <h2>LSM</h2>
+  <p>I Los Santos Marshall assicurano la sicuretta di tutti i membri e gli uffici di: Governo, procura e corte giudiziaria, inoltre vigilano in collaborazione con il segretario delle finanze sul rispetto delle norme per le aziende private</p>
+  <div class="governance-grid role-grid">
+    <article class="department-card role-card">
+      <figure class="role-media">
+        <img src="{{ '/assets/images/placeholder-portrait.png' | relative_url }}" alt="Ritratto del Comandante Marshall" loading="lazy" />
+      </figure>
+      <div class="role-content">
+        <h3>Comandante Marshall</h3>
+        <p class="role-holder">In carica: <span>Da nominare</span></p>
+        <p>Gestisce la sezione Marshall dello stato di San Anedreas, supervisiona tutte le operazioni e coordina le assegnazioni dei vari compiti</p>
+      </div>
+    </article>
+  </div>
+</section>
+
+<section class="content-section">
+  <h2>LSSS</h2>
+  <p>I Los Santos Secret Services vigilano sulla sicurezza interna dello stato di San Andreas, sotto la diretta indicazione del governatore si occupano del rispetto delle norme negli uffici pubblici e nelle FDO, sono coperti da segreto di stato</p>
+  <div class="governance-grid role-grid">
+    <article class="department-card role-card">
+      <figure class="role-media">
+        <img src="{{ '/assets/images/placeholder-portrait.png' | relative_url }}" alt="Ritratto del Direttore LSSS" loading="lazy" />
+      </figure>
+      <div class="role-content">
+        <h3>Direttore LSSS</h3>
+        <p class="role-holder">In carica: <span>Coperto da segreto di stato</span></p>
+        <p>Gestisce la sezione LSSS dello stato di San Anedreas, Prende ordini diretti solo dal Governatore, supervisiona tutte le operazioni e coordina le assegnazioni dei vari compiti</p>
       </div>
     </article>
   </div>

@@ -14,7 +14,7 @@ description: Registrazione delle licenze aziendali nella Sierra V3
   <h2>Requisiti per la candidatura</h2>
   <ul class="license-details">
     <li><strong>Licenza obbligatoria:</strong> ogni attività deve possedere una licenza commerciale rilasciata dal Segretario alle Finanze e valida 30 giorni dalla data di emissione.</li>
-    <li><strong>Documentazione da allegare:</strong> visura aggiornata, documento del rappresentante legale, descrizione dell'attività, piano settimanale di apertura e indicazione di almeno due referenti (proprietario o direttori) con recapito e-mail.</li>
+    <li><strong>Documentazione da allegare:</strong> Generalità del rappresentante legale, nome dell'attività, settore dell'attività, descrizione dell'attività, indicazione di almeno due referenti (proprietario o direttori) con recapito e-mail.</li>
     <li><strong>Registro dipendenti:</strong> elenco aggiornato con nome, cognome, data di nascita, ruolo e data di assunzione per ogni lavoratore.</li>
     <li><strong>Organizzazione minima:</strong> presenza di titolare o manager reperibile, listino prezzi visibile e dotazione dei DPI necessari alle mansioni svolte.</li>
     <li><strong>Sicurezza e formazione:</strong> attestare percorsi formativi per ruoli a rischio (cucine, officine, sicurezza privata, trasporti) e impegnarsi a segnalare eventuali infortuni gravi entro 24 ore.</li>
@@ -82,13 +82,13 @@ description: Registrazione delle licenze aziendali nella Sierra V3
 
 <section class="content-section">
   <h2>Aziende registrate in città</h2>
-  <p>Elenco aggiornato delle società con licenza attiva. Per modifiche o aggiornamenti scrivere a <a href="mailto:imprese@sierra.gov">imprese@sierra.gov</a>.</p>
+  <p>Elenco aggiornato delle società con licenza attiva. Per modifiche o aggiornamenti scrivere a <a href="#">piffipiffo@discord.com</a>.</p>
   <ul class="company-list">
     <li>
-      <span class="company-name">Arcadia Construction</span>
+      <span class="company-name">nome attività</span>
       <div class="company-meta">
-        <span>Civico 12</span>
-        <span>Edilizia e manutenzioni</span>
+        <span>Civ. 100</span>
+        <span>Settore prevalente</span>
       </div>
     </li>
     <li>
@@ -119,7 +119,7 @@ description: Registrazione delle licenze aziendali nella Sierra V3
   <h2>Invia la richiesta di licenza</h2>
   <p>Compila il modulo Google dedicato per inoltrare la tua richiesta. È necessario allegare tutta la documentazione indicata e un recapito telefonico per essere ricontattati dagli uffici.</p>
   <div class="button-group">
-    <a class="button primary" href="https://forms.gle/sierra-aziende" target="_blank" rel="noopener">Apri il modulo Google</a>
+    <a class="button primary" href="https://forms.gle/X5hQMsypDSSJGRhC7" target="_blank" rel="noopener">Apri il modulo Google</a>
   </div>
-  <p>In caso di assistenza puoi contattare lo sportello imprese all'indirizzo <a href="mailto:imprese@sierra.gov">imprese@sierra.gov</a>.</p>
+  <p>In caso di assistenza puoi contattare lo sportello imprese all'indirizzo <a href="#">piffipiffo@discord.com</a>.</p>
 </section>
