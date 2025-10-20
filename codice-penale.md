@@ -341,22 +341,6 @@ description: Quadro normativo penale del Governo di Sierra V3
         </tr>
         <tr>
           <td>C.P. Art 2.19</td>
-          <td>Vendita alcolici a &lt;21 (bar/ristorante)</td>
-          <td>Vendita di bevande alcoliche a una persona con meno di 21 anni.</td>
-          <td>No</td>
-          <td>$25.000</td>
-          <td>Multa aziendale; seconda volta multa raddoppiata; terza volta multa triplicata + sospensione 7 gg</td>
-        </tr>
-        <tr>
-          <td>C.P. Art 2.20</td>
-          <td>Vendita tabacchi a &lt;18 (bar/ristoranti)</td>
-          <td>Vendita di tabacchi a una persona con meno di 18 anni.</td>
-          <td>No</td>
-          <td>$30.000</td>
-          <td>Multa aziendale; seconda volta multa raddoppiata; terza volta multa triplicata + sospensione 7 gg</td>
-        </tr>
-        <tr>
-          <td>C.P. Art 2.21</td>
           <td>Mancata verifica di PDA (armeria)</td>
           <td>Vendita di armi senza la verifica della documentazione o registri incompleti durante un controllo.</td>
           <td>No</td>
@@ -364,20 +348,12 @@ description: Quadro normativo penale del Governo di Sierra V3
           <td>Multa aziendale; seconda volta multa raddoppiata + sospensione 7 gg; terza volta multa triplicata + sospensione 14 gg; più di 3 volte multa quadruplicata e sospensione perpetua</td>
         </tr>
         <tr>
-          <td>C.P. Art 2.22</td>
+          <td>C.P. Art 2.20</td>
           <td>Modifiche illegali ai veicoli (azienda meccanico)</td>
           <td>Manipolazioni illegali (numeri di telaio o targhe), o aggiunte di componentistica non autorizzata dallo Stato.</td>
           <td>No</td>
           <td>$50.000</td>
           <td>Multa aziendale; seconda volta multa raddoppiata; terza volta multa triplicata + sospensione 7 gg</td>
-        </tr>
-        <tr>
-          <td>C.P. Art 2.23</td>
-          <td>Falsa contabilità</td>
-          <td>Alterazione dei libri contabili per occultare guadagni o debiti.</td>
-          <td>No</td>
-          <td>$100.000</td>
-          <td>Multa aziendale + sospensione 7 gg; seconda volta multa raddoppiata + sospensione 7 gg; terza volta multa triplicata + sospensione 14 gg</td>
         </tr>
       </tbody>
     </table>
