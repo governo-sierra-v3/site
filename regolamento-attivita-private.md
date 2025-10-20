@@ -12,6 +12,9 @@ description: Norme su licenze, obblighi e sanzioni per le imprese private della 
     Ogni impresa che offre beni o servizi a scopo di lucro deve operare con licenza commerciale mensile valida rilasciata dal Segretario alle Finanze,
     che pubblica ogni provvedimento in Bacheca Legale e si avvale dei LSM per i controlli operativi e delle FDO per le esecuzioni coattive.
   </p>
+<div class="button-group">
+    <a class="button primary" href="https://docs.google.com/document/d/1K4aveHkj-MFLPNcDxDxuv8Riety2MfYtFI_sABp7X_c/edit?usp=sharing" target="_blank" rel="noopener">Visualizza il Regolamento attività private come file</a>
+  </div>
 </section>
 
 <section class="content-section">
