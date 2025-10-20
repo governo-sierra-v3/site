@@ -191,7 +191,7 @@ h4 {
 .brand-mark {
   width: 90px;
   height: 90px;
-  border-radius: 18px;
+  border-radius: 8px;
   background:
     url('../images/LOGO-SIERRA.png') center/48px 48px no-repeat,
     radial-gradient(circle at 10% 10%, rgba(255, 255, 255, 0.3), transparent 60%),
@@ -611,7 +611,7 @@ tbody tr:hover td {
   width: 260px;
   height: 260px;
   margin: 0 auto;
-  border-radius: 52px;
+  border-radius: 22px;
   background:
     url('../images/LOGO-SIERRA.png') center/140px 140px no-repeat,
     radial-gradient(circle at 30% 30%, rgba(255, 255, 255, 0.45), transparent 70%),
