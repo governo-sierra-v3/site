@@ -28,11 +28,11 @@ description: Strumenti per inviare segnalazioni al Governo di Sierra V3
     </li>
     <li>
       <h3>Carica le prove</h3>
-      <p>Accettiamo allegati nei formati PDF, JPG e PNG fino a 25 MB.</p>
+      <p>Accettiamo allegati come link dei principali servizi di upload file.</p>
     </li>
     <li>
       <h3>Ricevi aggiornamenti</h3>
-      <p>Monitora lo stato della segnalazione tramite le comunicazioni che riceverai via email.</p>
+      <p>Monitora lo stato della segnalazione tramite le comunicazioni che riceverai via email. (Non presente se deciderai di agire anonimamente)</p>
     </li>
   </ol>
 </section>
@@ -41,6 +41,6 @@ description: Strumenti per inviare segnalazioni al Governo di Sierra V3
   <h2>Invia la tua segnalazione</h2>
   <p>Utilizza il modulo Google ufficiale per trasmettere documenti, prove e dettagli dell'episodio. I dati sono gestiti con canali sicuri e riceverai conferma via email.</p>
   <div class="button-group">
-    <a class="button primary" href="https://forms.gle/sierra-segnalazioni" target="_blank" rel="noopener">Compila il modulo Google</a>
+    <a class="button primary" href="https://forms.gle/yHSaEq7dHapyVL586" target="_blank" rel="noopener">Compila il modulo Google</a>
   </div>
 </section>
