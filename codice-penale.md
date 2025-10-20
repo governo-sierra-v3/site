@@ -43,6 +43,9 @@ description: Quadro normativo penale del Governo di Sierra V3
 <section class="content-section accent">
   <h2>Quadro sanzionatorio</h2>
   <p>Le tabelle seguenti raccolgono i reati previsti dal Codice Penale, organizzati per categoria. Per ogni fattispecie sono indicati il codice articolo, la descrizione sintetica, la necessità del processo, l'importo delle sanzioni amministrative, l'eventuale pena detentiva, le sanzioni accessorie e, per i crimini di classe S, le pene processuali.</p>
+  <div class="button-group">
+    <a class="button primary" href="https://docs.google.com/spreadsheets/d/1veSV4tj4y4P_QMY7eeT_tHUHhIPL4rkHFN_PP-7vfXc/edit?usp=sharing" target="_blank" rel="noopener">Visualizza il Codice Penale come file</a>
+  </div>
 </section>
 
 <section class="content-section">
@@ -1158,4 +1161,3 @@ description: Quadro normativo penale del Governo di Sierra V3
     </table>
   </div>
 </section>
-
