@@ -16,6 +16,8 @@ nav:
         url: "/codice-procedura-penale/"
       - title: "Regolamento Attività Private"
         url: "/regolamento-attivita-private/"
+      - title: "Lista oggetti Proibibi/limitati"
+        url: "/lista-oggetti-proibiti/"
   - title: "Cariche"
     children:
       - title: "Cariche Pubbliche"

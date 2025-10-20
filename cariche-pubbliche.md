@@ -96,7 +96,7 @@ description: Organigramma istituzionale del Governo di Sierra V3
       <div class="role-content">
         <h3>Comandante Marshall</h3>
         <p class="role-holder">In carica: <span>Da nominare</span></p>
-        <p>Gestisce la sezione Marshall dello stato di San Anedreas, supervisiona tutte le operazioni e coordina le assegnazioni dei vari compiti</p>
+        <p>Gestisce la sezione Marshall dello stato di San Andreas, supervisiona tutte le operazioni e coordina le assegnazioni dei vari compiti</p>
       </div>
     </article>
   </div>
