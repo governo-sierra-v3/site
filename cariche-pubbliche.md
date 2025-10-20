@@ -87,7 +87,7 @@ description: Organigramma istituzionale del Governo di Sierra V3
 
 <section class="content-section">
   <h2>LSM</h2>
-  <p>I Los Santos Marshall assicurano la sicuretta di tutti i membri e gli uffici di: Governo, procura e corte giudiziaria, inoltre vigilano in collaborazione con il segretario delle finanze sul rispetto delle norme per le aziende private</p>
+  <p>I Los Santos Marshall assicurano la sicurezza di tutti i membri e gli uffici di: Governo, procura e corte giudiziaria, inoltre vigilano in collaborazione con il segretario delle finanze sul rispetto delle norme per le aziende private</p>
   <div class="governance-grid role-grid">
     <article class="department-card role-card">
       <figure class="role-media">
