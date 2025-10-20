@@ -1061,6 +1061,16 @@ description: Quadro normativo penale del Governo di Sierra V3
         </tr>
         <tr>
           <td>C.P. Art 6.11</td>
+          <td>Sequestro di alto funzionario</td>
+          <td>Sequestro di Governatore, Procuratore Generale, Giudice Generale, Capo LSPD, Sceriffo BSCO, Comandante LSM, Direttore USSS, Direttore FIB o Direttore EMS.</td>
+          <td>Sì</td>
+          <td>$50.000</td>
+          <td>30 m</td>
+          <td>Revoca PDA</td>
+          <td>Passibile di ergastolo/pena di morte</td>
+        </tr>
+        <tr>
+          <td>C.P. Art 6.12</td>
           <td>Tentato omicidio di alto funzionario</td>
           <td>Tentato omicidio di Governatore, Procuratore Generale, Giudice Generale, Capo LSPD, Sceriffo BSCO, Comandante LSM, Direttore USSS, Direttore FIB o Direttore EMS.</td>
           <td>Sì</td>
@@ -1070,7 +1080,7 @@ description: Quadro normativo penale del Governo di Sierra V3
           <td>Passibile di ergastolo/pena di morte</td>
         </tr>
         <tr>
-          <td>C.P. Art 6.12</td>
+          <td>C.P. Art 6.13</td>
           <td>Omicidio di alto funzionario</td>
           <td>Omicidio (permadeath) di Governatore, Procuratore Generale, Giudice Generale, Capo LSPD, Sceriffo BSCO, Comandante LSM, Direttore USSS, Direttore FIB o Direttore EMS.</td>
           <td>Sì</td>
@@ -1080,7 +1090,7 @@ description: Quadro normativo penale del Governo di Sierra V3
           <td>Passibile di pena di morte</td>
         </tr>
         <tr>
-          <td>C.P. Art 6.13</td>
+          <td>C.P. Art 6.14</td>
           <td>Processo per somma di crimini</td>
           <td>Processo per somma di crimini descritto nel CPP Art. 13.</td>
           <td>Sì</td>
