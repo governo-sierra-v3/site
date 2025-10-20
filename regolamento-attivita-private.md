@@ -91,11 +91,11 @@ description: Norme su licenze, obblighi e sanzioni per le imprese private della 
 <section class="content-section">
   <h2>Titolo III — Registri e obblighi occupazionali</h2>
   <dl class="article-list">
-    <dt>Art. 10 — Registro Dipendenti</dt>
+    <dt>Art. 9 — Registro Dipendenti</dt>
     <dd>Ogni azienda deve mantenere un registro aggiornato con nome, cognome, data di nascita, ruolo, data di assunzione e contatti email di almeno due referenti (proprietari o direttori).</dd>
-    <dt>Art. 11 — Minimi organizzativi</dt>
+    <dt>Art. 10 — Minimi organizzativi</dt>
     <dd>Richiesti titolare/manager reperibile, listino prezzi chiaro e dispositivi di protezione individuale dove necessari.</dd>
-    <dt>Art. 12 — Sicurezza e formazione</dt>
+    <dt>Art. 11 — Sicurezza e formazione</dt>
     <dd>Formazione minima per ruoli a rischio (cucine, officine, sicurezza, trasporti) e segnalazione di infortuni gravi al Segretario delle Finanze entro 24 ore.</dd>
   </dl>
 </section>
@@ -103,11 +103,11 @@ description: Norme su licenze, obblighi e sanzioni per le imprese private della 
 <section class="content-section">
   <h2>Titolo IV — Controlli mensili</h2>
   <dl class="article-list">
-    <dt>Art. 13 — Controllo ordinario</dt>
+    <dt>Art. 12 — Controllo ordinario</dt>
     <dd>Almeno un controllo mensile cura del Segretario/LSM su licenza, registro dipendenti, listino e sicurezza/igiene, con verbale ufficiale.</dd>
-    <dt>Art. 14 — Esiti e prescrizioni</dt>
+    <dt>Art. 13 — Esiti e prescrizioni</dt>
     <dd>Esito conforme: nessuna azione. Non conforme lieve: prescrizione da sanare in 48 ore. Non conforme grave: sospensione fino a sanatoria e sanzione.</dd>
-    <dt>Art. 15 — Ispezioni straordinarie</dt>
+    <dt>Art. 14 — Ispezioni straordinarie</dt>
     <dd>Possibili su esposto, sospetti di frode, rischi per l'ordine pubblico o DEFCON ≥3, nel rispetto dei principi di legalità e proporzionalità.</dd>
   </dl>
 </section>
@@ -115,13 +115,13 @@ description: Norme su licenze, obblighi e sanzioni per le imprese private della 
 <section class="content-section">
   <h2>Titolo V — Norme operative di settore</h2>
   <dl class="article-list">
-    <dt>Art. 16 — Orari e apertura</dt>
+    <dt>Art. 15 — Orari e apertura</dt>
     <dd>Chiusure superiori a 7 giorni vanno comunicate; in mancanza è prevista sospensione fino a verifica.</dd>
-    <dt>Art. 17 — Prezzi e pratiche sleali</dt>
+    <dt>Art. 16 — Prezzi e pratiche sleali</dt>
     <dd>Vietati rialzi ingiustificati in emergenza e pubblicità ingannevole. Le promozioni devono essere reali e documentate.</dd>
-    <dt>Art. 18 — Fatturazione e tracciabilità</dt>
+    <dt>Art. 17 — Fatturazione e tracciabilità</dt>
     <dd>Richiesta tracciabilità delle transazioni rilevanti e divieto di circuiti fittizi per eludere tariffe o salari.</dd>
-    <dt>Art. 19 — Rapporti con le FDO</dt>
+    <dt>Art. 18 — Rapporti con le FDO</dt>
     <dd>Obbligo di collaborazione e divieto di ostacolare i controlli. Sicurezza privata con taser solo con autorizzazione speciale.</dd>
     <dt>Art. 19.1 — Bar/Ristoranti</dt>
     <dd>Divieto di vendita alcolici a minori di 21 anni e tabacchi a minori di 18 anni, con verifica obbligatoria dell'ID.</dd>
@@ -150,7 +150,7 @@ description: Norme su licenze, obblighi e sanzioni per le imprese private della 
     <dd>$50.000 (multa aziendale). Seconda violazione: multa raddoppiata e sospensione 7 giorni. Ulteriori: aumento progressivo.</dd>
     <dt>C.P. Art. 2.22 — Falsa contabilità</dt>
     <dd>$100.000 (multa aziendale) e sospensione licenza 7 giorni. Seconda violazione: multa raddoppiata e sospensione 14 giorni. Terza: multa triplicata e revoca perpetua.</dd>
-    <dt>Art. 22 — Revoca e blacklist</dt>
+    <dt>Art. 20 — Revoca e blacklist</dt>
     <dd>In presenza di frodi sistematiche o gravi rischi per l'ordine pubblico il Segretario può revocare la licenza e applicare blacklist da 30 a 90 giorni, con eventuale cauzione fino a $100.000 per la riammissione.</dd>
   </dl>
 </section>
@@ -158,13 +158,13 @@ description: Norme su licenze, obblighi e sanzioni per le imprese private della 
 <section class="content-section">
   <h2>Titolo VII — Procedure e ricorsi</h2>
   <dl class="article-list">
-    <dt>Art. 23 — Verbali e pubblicità</dt>
+    <dt>Art. 21 — Verbali e pubblicità</dt>
     <dd>I verbali LSM e gli atti sanzionatori vengono notificati all'azienda.</dd>
-    <dt>Art. 24 — Ricorso</dt>
+    <dt>Art. 22 — Ricorso</dt>
     <dd>È possibile presentare ricorso al Giudice Generale entro 48 ore dall'atto. Il ricorso non sospende l'efficacia salvo ordinanza.</dd>
-    <dt>Art. 25 — Coordinamento con DEFCON</dt>
+    <dt>Art. 23 — Coordinamento con DEFCON</dt>
     <dd>In DEFCON 2 o 1 l'autorità può imporre limitazioni temporanee su orari, prezzi o forniture essenziali, che cessano con il rientro del livello.</dd>
-    <dt>Art. 26 — Entrata in vigore</dt>
+    <dt>Art. 24 — Entrata in vigore</dt>
     <dd>Il regolamento è efficace dalla pubblicazione in Bacheca Legale. Le aziende già operative hanno 72 ore per adeguarsi.</dd>
   </dl>
 </section>
