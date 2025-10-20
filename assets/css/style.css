@@ -191,9 +191,9 @@ h4 {
 .brand-mark {
   width: 90px;
   height: 90px;
-  border-radius: 8px;
+  border-radius: 18px;
   background:
-    url('../images/LOGO-SIERRA.png') center/48px 48px no-repeat,
+    url('../images/LOGO-SIERRA.png') center/78px 78px no-repeat,
     radial-gradient(circle at 10% 10%, rgba(255, 255, 255, 0.3), transparent 60%),
     linear-gradient(135deg, #0c3c5c, #1d658c);
   box-shadow: 0 10px 22px rgba(12, 60, 92, 0.32);
@@ -616,9 +616,9 @@ tbody tr:hover td {
   width: 260px;
   height: 260px;
   margin: 0 auto;
-  border-radius: 22px;
+  border-radius: 52px;
   background:
-    url('../images/LOGO-SIERRA.png') center/200px 200px no-repeat,
+    url('../images/LOGO-SIERRA.png') center/240px 240px no-repeat,
     radial-gradient(circle at 30% 30%, rgba(255, 255, 255, 0.45), transparent 70%),
     linear-gradient(135deg, #0c3c5c, #1f6d98);
   box-shadow: 0 32px 70px rgba(12, 60, 92, 0.25);
