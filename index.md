@@ -35,34 +35,6 @@ description: Portale istituzionale per cittadini, imprese e pubblica amministraz
   </article>
 </section>
 
-<section class="home-updates">
-  <div class="content-section">
-    <div class="badge" aria-hidden="true">Ultime novità</div>
-    <h2>In evidenza questa settimana</h2>
-    <p>Rimani aggiornato sulle iniziative e sui provvedimenti più importanti dell'amministrazione.</p>
-    <div class="updates-grid">
-      <article class="update-card">
-        <p class="meta">16 luglio 2024</p>
-        <h3>Riforma per la tutela digitale</h3>
-        <p>Pubblicate le nuove linee guida per la sicurezza dei dati e la protezione della privacy dei cittadini.</p>
-        <a href="{{ '/codice-penale/' | relative_url }}">Leggi il provvedimento</a>
-      </article>
-      <article class="update-card">
-        <p class="meta">12 luglio 2024</p>
-        <h3>Nuovi bandi per le imprese</h3>
-        <p>Disponibili contributi per progetti di innovazione e infrastrutture strategiche nel territorio nazionale.</p>
-        <a href="{{ '/aziende/' | relative_url }}">Scopri i bandi</a>
-      </article>
-      <article class="update-card">
-        <p class="meta">8 luglio 2024</p>
-        <h3>Assunzioni nella PA</h3>
-        <p>Attivata la campagna di reclutamento per esperti di trasformazione digitale e servizi al cittadino.</p>
-        <a href="{{ '/posizioni-aperte/' | relative_url }}">Consulta le posizioni</a>
-      </article>
-    </div>
-  </div>
-</section>
-
 <section class="home-sections">
   <section class="content-section">
     <h2>Missione</h2>
