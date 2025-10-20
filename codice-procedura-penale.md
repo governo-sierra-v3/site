@@ -38,11 +38,13 @@ description: Procedure e garanzie processuali nella Sierra V3
         <li>Durata massima: 30 minuti.</li>
         <li>Oggetto: controllo identità e perquisizione superficiale.</li>
       </ul>
+
       <h4>Arresto</h4>
       <ul>
         <li>Richiede PC.</li>
         <li>I diritti Miranda non sono obbligatori al momento dell'arresto, ma devono essere letti prima di qualsiasi interrogatorio.</li>
       </ul>
+
       <h4>Booking (in centrale di polizia)</h4>
       <ul>
         <li>Registrazione.</li>
@@ -61,6 +63,7 @@ description: Procedure e garanzie processuali nella Sierra V3
         <li>Per i reati che richiedono processo, l'imputato arrestato è valutato dal Procuratore che applica una delle misure cautelari descritte nell'Art. 7.</li>
         <li>Le pene detentive e pecuniarie sono applicate solo dopo il processo.</li>
       </ul>
+
       <h4>Processo e termini</h4>
       <ul>
         <li>Il processo va fissato entro 2 settimane dal fatto e celebrato entro 2 settimane dal fissaggio.</li>
@@ -104,11 +107,13 @@ description: Procedure e garanzie processuali nella Sierra V3
         <li>Si svolge in presenza di un giudice unico.</li>
         <li>Entrambe le parti hanno pari tempo per esporre.</li>
       </ul>
+
       <h4>Esame e controesame</h4>
       <ul>
         <li>Sono concesse solo domande dirette in esame.</li>
         <li>Sono concesse anche domande suggestive in controesame.</li>
       </ul>
+
       <h4>Decisione</h4>
       <p>La colpevolezza è dichiarata solo se raggiunto lo standard OARD.</p>
     </article>
@@ -131,6 +136,7 @@ description: Procedure e garanzie processuali nella Sierra V3
         <li>Consente la riduzione della pena fino al 50% con dichiarazione di colpevolezza e collaborazione.</li>
         <li>Sempre soggetto all'approvazione del Giudice.</li>
       </ul>
+
       <h4>Ricorso</h4>
       <ul>
         <li>Entrambe le parti possono richiederlo in caso di evidenti errori processuali o nuove prove chiave.</li>
@@ -148,12 +154,14 @@ description: Procedure e garanzie processuali nella Sierra V3
         <li>Non ammessa per chi ha commesso un crimine di classe S.</li>
         <li>Consentita una sola volta nella vita.</li>
       </ul>
+
       <h4>Prezzo</h4>
       <ul>
         <li>C: 10.000$</li>
         <li>B: 20.000$</li>
         <li>A: 30.000$</li>
       </ul>
+
       <h4>Procedimento</h4>
       <ul>
         <li>Il cittadino deve rivolgersi a un avvocato privato o d'ufficio.</li>
@@ -175,11 +183,13 @@ description: Procedure e garanzie processuali nella Sierra V3
           <li><strong>A</strong> – Crimini gravi: processo necessario, sanzioni 25.000$-50.000$ e pene 15-30 mesi con sanzioni accessorie.</li>
           <li><strong>S</strong> – Crimini capitali: processo necessario, sanzioni 50.000$-500.000$ e pene 30 mesi - ergastolo (unici per cui può essere applicata la pena di morte).</li>
         </ul>
+
         <h4>Possibili esiti</h4>
         <ul>
           <li>Per i crimini E-D-C-B la pena è applicata dalla FDO che contesta il reato (Art. 4.1).</li>
           <li>Per i crimini A-S la pena è applicata dalla procura/giudice previo processo (Art. 4.2).</li>
         </ul>
+
         <h4>Concomitanza di crimini di classi diverse</h4>
         <ul>
           <li>Per crimini E-D-C-B si sommano pene amministrative e detentive.</li>
@@ -197,6 +207,7 @@ description: Procedure e garanzie processuali nella Sierra V3
         <li>Si procede quando la pena detentiva cumulata raggiunge i 100 mesi.</li>
         <li>Il conteggio si azzera con la pulizia della fedina penale e riparte dalla data della pulizia.</li>
       </ul>
+      
       <h4>Possibili esiti</h4>
       <ul>
         <li>Se il criminale collabora ed è ritenuto poco pericoloso: 60 mesi e 300.000$ di multa.</li>
@@ -213,6 +224,7 @@ description: Procedure e garanzie processuali nella Sierra V3
         <li>Il reato deve iniziare all'interno dello stabile (negozietto o banca).</li>
         <li>La polizia deve tentare la contrattazione come prima opzione.</li>
       </ul>
+
       <h4>Possibili esiti</h4>
       <ul>
         <li>In caso di arresto del criminale si applicano:</li>

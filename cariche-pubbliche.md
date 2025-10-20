@@ -113,7 +113,7 @@ description: Organigramma istituzionale del Governo di Sierra V3
       <div class="role-content">
         <h3>Direttore LSSS</h3>
         <p class="role-holder">In carica: <span>Coperto da segreto di stato</span></p>
-        <p>Gestisce la sezione LSSS dello stato di San Anedreas, Prende ordini diretti solo dal Governatore, supervisiona tutte le operazioni e coordina le assegnazioni dei vari compiti</p>
+        <p>Gestisce la sezione LSSS dello stato di San Andreas, prende ordini diretti solo dal Governatore, supervisiona tutte le operazioni e coordina le assegnazioni dei vari compiti</p>
       </div>
     </article>
   </div>

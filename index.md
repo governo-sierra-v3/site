@@ -78,7 +78,7 @@ description: Portale istituzionale per cittadini, imprese e pubblica amministraz
   <section class="content-section callout">
     <h2>Hai bisogno di supporto?</h2>
     <ul>
-      <li>Consulta il <a href="{{ '/codice-penale/' | relative_url }}">Codice Penale</a> e il <a href="{{ '/codice-procedura-penale/' | relative_url }}">Codice di Procedura Penale</a>.</li>
+      <li>Consulta il <a href="{{ '/codice-penale/' | relative_url }}">Codice Penale</a>, il <a href="{{ '/codice-procedura-penale/' | relative_url }}">Codice di Procedura Penale</a> e il <a href="{{ '/regolamento-attivita-private/' | relative_url }}">Regolamento Attività Private</a>.</li>
       <li>Scopri la struttura delle <a href="{{ '/cariche-pubbliche/' | relative_url }}">cariche pubbliche</a>.</li>
       <li>Collabora con noi attraverso le <a href="{{ '/posizioni-aperte/' | relative_url }}">posizioni aperte</a> o segnala un problema dalla sezione <a href="{{ '/segnalazioni/' | relative_url }}">Segnalazioni</a>.</li>
     </ul>
