@@ -5,7 +5,7 @@ description: Informazioni su avvocati privati e d'ufficio nella Sierra V3
 ---
 
 <section class="content-section">
-  <h2>Gli avvocati nella Sierra V3</h2>
+  <h2>Gli avvocati nello stato di San Andreas</h2>
   <p>
     Gli avvocati rappresentano la base della legalità cittadina: difendono e tutelano i cittadini in ogni situazione,
     garantendo il rispetto dei diritti sanciti dal nostro ordinamento. Prima di inoltrare la tua candidatura consulta il
@@ -33,6 +33,6 @@ description: Informazioni su avvocati privati e d'ufficio nella Sierra V3
     ricontattato con i recapiti forniti per fissare un colloquio finalizzato al rilascio della licenza professionale.
   </p>
   <div class="button-group">
-    <a class="button primary" href="https://forms.gle/LICENZA-AVVOCATI" target="_blank" rel="noopener">Richiedi la licenza privata</a>
+    <a class="button primary" href="https://forms.gle/Y8wSdfxnNUyhag1L8" target="_blank" rel="noopener">Richiedi la licenza privata</a>
   </div>
 </section>
