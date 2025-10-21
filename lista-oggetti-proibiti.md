@@ -14,7 +14,8 @@ description: lista di oggetti e armi proibiti o limitati
   <div class="button-group">
     <a class="button primary" href="https://docs.google.com/spreadsheets/d/1IvEXE0g5IyZ_D5AML_0qhJjEofw5zOkB-9Xd94U0NJo/edit?usp=sharing" target="_blank" rel="noopener">Visualizza la lista come file</a>
   </div>
-
+</section>
+<section class="content-section">
   <h3>Armi</h3>
   <p>
     Il possesso e l'utilizzo delle armi è regolato da diversi livelli di porto

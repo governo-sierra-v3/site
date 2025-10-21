@@ -16,6 +16,8 @@ nav:
         url: "/codice-procedura-penale/"
       - title: "Regolamento Attività Private"
         url: "/regolamento-attivita-private/"
+      - title: "Regolamento Avvocati"
+        url: "/regolamento-avvocati/"
       - title: "Lista oggetti Proibibi/limitati"
         url: "/lista-oggetti-proibiti/"
   - title: "Cariche"
@@ -26,6 +28,8 @@ nav:
         url: "/posizioni-aperte/"
   - title: "Aziende"
     url: "/aziende/"
+  - title: "Avvocati"
+    url: "/avvocati/"
   - title: "Segnalazioni"
     url: "/segnalazioni/"
 
