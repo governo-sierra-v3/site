@@ -56,6 +56,11 @@ description: Opportunità di lavoro nel Governo di Sierra V3
           <td>Los Santos Marshall</td>
           <td>Domande aperte</td>
         </tr>
+        <tr>
+          <td>Agente BIO</td>
+          <td>Bureau of Internal Oversight</td>
+          <td>Domande aperte</td>
+        </tr>
       </tbody>
     </table>
   </div>

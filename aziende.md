@@ -17,7 +17,6 @@ description: Registrazione delle licenze aziendali nella Sierra V3
     <li><strong>Documentazione da allegare:</strong> Generalità del rappresentante legale, nome dell'attività, settore dell'attività, descrizione dell'attività, indicazione di almeno due referenti (proprietario o direttori) con recapito e-mail.</li>
     <li><strong>Registro dipendenti:</strong> elenco aggiornato con nome, cognome, data di nascita, ruolo e data di assunzione per ogni lavoratore.</li>
     <li><strong>Organizzazione minima:</strong> presenza di titolare o manager reperibile, listino prezzi visibile e dotazione dei DPI necessari alle mansioni svolte.</li>
-    <li><strong>Sicurezza e formazione:</strong> attestare percorsi formativi per ruoli a rischio (cucine, officine, sicurezza privata, trasporti) e impegnarsi a segnalare eventuali infortuni gravi entro 24 ore.</li>
   </ul>
 </section>
 
@@ -56,27 +55,6 @@ description: Registrazione delle licenze aziendali nella Sierra V3
     <li><strong>Add-on di licenza:</strong> vendita alcolici +$20.000/mese, vendita tabacchi +$10.000/mese (cumulabili).</li>
     <li><strong>Classi di dipendenti:</strong> micro (1–3) $0, piccola (4–8) +$20.000, media (9–14) +$50.000, grande (15+) +$100.000.</li>
     <li><strong>Scadenze e mora:</strong> rinnovo da completare entro 24 ore dalla scadenza; ritardi comportano mora del 25% (entro 24h) o del 50% con sospensione dell'attività oltre le 24 ore e fino a 7 giorni.</li>
-  </ul>
-</section>
-
-<section class="content-section">
-  <h2>Obblighi operativi e controlli</h2>
-  <ul class="license-details">
-    <li><strong>Comunicazioni:</strong> chiusure superiori a 7 giorni vanno segnalate al Segretario alle Finanze.</li>
-    <li><strong>Pratiche commerciali:</strong> vietati rialzi ingiustificati in emergenza, pubblicità ingannevole e circuiti fittizi per eludere tariffe o salari.</li>
-    <li><strong>Tracciabilità:</strong> transazioni rilevanti devono essere accompagnate da scontrino o fattura RP e, per le armerie, registrate con dati completi dell'acquirente.</li>
-    <li><strong>Controlli mensili:</strong> almeno una verifica al mese su licenza, registro dipendenti, listini e condizioni di sicurezza; eventuali irregolarità comportano prescrizioni da sanare in 48 ore o sospensione fino a regolarizzazione.</li>
-    <li><strong>Settori specifici:</strong> rispetto dei limiti di età per alcolici/tabacchi, ricambi regolari per meccanici, tracciabilità dei passaggi di proprietà per i concessionari, verifica PDA e stoccaggio sicuro per le armerie.</li>
-  </ul>
-</section>
-
-<section class="content-section">
-  <h2>Sanzioni principali</h2>
-  <ul class="license-details">
-    <li><strong>Violazioni su alcolici/tabacchi:</strong> multe da $25.000 a $30.000 con escalation fino alla sospensione della licenza e aumento progressivo per recidiva.</li>
-    <li><strong>Inadempienze di settore:</strong> mancata verifica PDA ($100.000) e modifiche illegali ai veicoli ($50.000) con sospensione dopo la seconda violazione.</li>
-    <li><strong>Falsa contabilità:</strong> multa $100.000 con sospensione di 7 giorni, che cresce fino alla revoca perpetua alla terza recidiva.</li>
-    <li><strong>Revoca e blacklist:</strong> il Segretario può disporre la revoca della licenza e l'inserimento in blacklist da 30 a 90 giorni in caso di frodi sistematiche o gravi rischi per l'ordine pubblico.</li>
   </ul>
 </section>
 
