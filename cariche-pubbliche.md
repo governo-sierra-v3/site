@@ -14,7 +14,7 @@ description: Organigramma istituzionale del Governo di Sierra V3
       </figure>
       <div class="role-content">
         <h3>Governatore</h3>
-        <p class="role-holder">In carica: <span>gallo_loco_tv</span></p>
+        <p class="role-holder">In carica: <span>Silvio Trumpusconi</span></p>
         <p>Rappresenta l'esecutivo, definisce l'agenda politica e assicura il coordinamento tra i dipartimenti dell'amministrazione.</p>
       </div>
     </article>
@@ -24,7 +24,7 @@ description: Organigramma istituzionale del Governo di Sierra V3
       </figure>
       <div class="role-content">
         <h3>Vice Governatore</h3>
-        <p class="role-holder">In carica: <span>Da nominare</span></p>
+        <p class="role-holder">In carica: <span>Abradolf Lincler</span></p>
         <p>Supporta il Governatore nelle funzioni strategiche e ne garantisce la supplenza in caso di assenza o impedimento.</p>
       </div>
     </article>
@@ -34,7 +34,7 @@ description: Organigramma istituzionale del Governo di Sierra V3
       </figure>
       <div class="role-content">
         <h3>Segretario delle Finanze</h3>
-        <p class="role-holder">In carica: <span>Kar_lo_crakko</span></p>
+        <p class="role-holder">In carica: <span>Jonny Cash</span></p>
         <p>Gestisce il bilancio statale, supervisiona la spesa pubblica e coordina la pianificazione economica.</p>
       </div>
     </article>
@@ -51,7 +51,7 @@ description: Organigramma istituzionale del Governo di Sierra V3
       </figure>
       <div class="role-content">
         <h3>Procuratore Generale</h3>
-        <p class="role-holder">In carica: <span>Piffipiffo</span></p>
+        <p class="role-holder">In carica: <span>Stefano Fabbri</span></p>
         <p>Coordina l'attività investigativa, assegna i fascicoli ai procuratori e rappresenta l'accusa nei casi più rilevanti.</p>
       </div>
     </article>
@@ -61,7 +61,7 @@ description: Organigramma istituzionale del Governo di Sierra V3
       </figure>
       <div class="role-content">
         <h3>Vice Procuratore Generale</h3>
-        <p class="role-holder">In carica: <span>Muller34578</span></p>
+        <p class="role-holder">In carica: <span>Fabio Muller</span></p>
         <p>Affianca il Procuratore Generale, cura i rapporti con gli uffici periferici e garantisce la continuità operativa.</p>
       </div>
     </article>
