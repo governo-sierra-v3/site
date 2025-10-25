@@ -10,7 +10,7 @@ description: Organigramma istituzionale del Governo di Sierra V3
   <div class="governance-grid role-grid">
     <article class="department-card role-card">
       <figure class="role-media">
-        <img src="{{ '/assets/images/placeholder-portrait.png' | relative_url }}" alt="Ritratto del Governatore" loading="lazy" />
+        <img src="{{ '/assets/images/silvio-trumpusconi.png' | relative_url }}" alt="Ritratto del Governatore" loading="lazy" />
       </figure>
       <div class="role-content">
         <h3>Governatore</h3>
@@ -20,7 +20,7 @@ description: Organigramma istituzionale del Governo di Sierra V3
     </article>
     <article class="department-card role-card">
       <figure class="role-media">
-        <img src="{{ '/assets/images/placeholder-portrait.png' | relative_url }}" alt="Ritratto del Vice Governatore" loading="lazy" />
+        <img src="{{ '/assets/images/abradolf-lincler.png' | relative_url }}" alt="Ritratto del Vice Governatore" loading="lazy" />
       </figure>
       <div class="role-content">
         <h3>Vice Governatore</h3>
@@ -30,7 +30,7 @@ description: Organigramma istituzionale del Governo di Sierra V3
     </article>
     <article class="department-card role-card">
       <figure class="role-media">
-        <img src="{{ '/assets/images/placeholder-portrait.png' | relative_url }}" alt="Ritratto del Segretario delle Finanze" loading="lazy" />
+        <img src="{{ '/assets/images/jonny-cash.png' | relative_url }}" alt="Ritratto del Segretario delle Finanze" loading="lazy" />
       </figure>
       <div class="role-content">
         <h3>Segretario delle Finanze</h3>
