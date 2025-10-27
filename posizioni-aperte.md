@@ -50,12 +50,7 @@ description: Opportunità di lavoro nel Governo di Sierra V3
           <td>Avvocato d'ufficio</td>
           <td>Avvocatura</td>
           <td>Domande aperte</td>
-        </tr>
-        <tr>
-          <td>Agente Marshall</td>
-          <td>Los Santos Marshall</td>
-          <td>Domande aperte</td>
-        </tr>
+        </tr>>
         <tr>
           <td>Agente BIO</td>
           <td>Bureau of Internal Oversight</td>

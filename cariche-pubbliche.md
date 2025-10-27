@@ -86,23 +86,6 @@ description: Organigramma istituzionale del Governo di Sierra V3
 </section>
 
 <section class="content-section">
-  <h2>LSM</h2>
-  <p>I Los Santos Marshall assicurano la sicurezza di tutti i membri e gli uffici di: Governo, procura e corte giudiziaria, inoltre vigilano in collaborazione con il segretario delle finanze sul rispetto delle norme per le aziende private</p>
-  <div class="governance-grid role-grid">
-    <article class="department-card role-card">
-      <figure class="role-media">
-        <img src="{{ '/assets/images/placeholder-portrait.png' | relative_url }}" alt="Ritratto del Comandante Marshall" loading="lazy" />
-      </figure>
-      <div class="role-content">
-        <h3>Comandante Marshall</h3>
-        <p class="role-holder">In carica: <span>Da nominare</span></p>
-        <p>Gestisce la sezione Marshall dello stato di San Andreas, supervisiona tutte le operazioni e coordina le assegnazioni dei vari compiti, in abse alle varie situazioni può prendere ordini da: Governatore, Procuratore Generale, Segretario delle finanze o Giudice Generale</p>
-      </div>
-    </article>
-  </div>
-</section>
-
-<section class="content-section">
   <h2>BIO</h2>
   <p>Il Bureau of Internal Oversight è un organo governativo che funge da affari interni per tutte le FDO presenti in città, non ha compiti di sicurezza pubblica o di controllo dei cittadini ma di vigilare sulle FDO e di agire in caso di conflitti, abusi di potere o corruzzione</p>
   <div class="governance-grid role-grid">
