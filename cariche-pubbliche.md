@@ -87,7 +87,7 @@ description: Organigramma istituzionale del Governo di Sierra V3
 
 <section class="content-section">
   <h2>BIO</h2>
-  <p>Il Bureau of Internal Oversight è un organo governativo che funge da affari interni per tutte le FDO presenti in città, non ha compiti di sicurezza pubblica o di controllo dei cittadini ma di vigilare sulle FDO e di agire in caso di conflitti, abusi di potere o corruzzione</p>
+  <p>Il Bureau of Internal Oversight è un organo governativo che funge da affari interni per tutte le FDO presenti in città, non ha compiti di sicurezza pubblica o di controllo dei cittadini ma di vigilare sulle FDO e di agire in caso di conflitti, abusi di potere o corruzione</p>
   <div class="governance-grid role-grid">
     <article class="department-card role-card">
       <figure class="role-media">

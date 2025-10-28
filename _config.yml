@@ -6,8 +6,6 @@ baseurl: "/site"
 permalink: pretty
 
 nav:
-  - title: "Home"
-    url: "/"
   - title: "Leggi"
     children:
       - title: "Codice Penale"
@@ -20,12 +18,10 @@ nav:
         url: "/regolamento-avvocati/"
       - title: "Lista oggetti Proibibi/limitati"
         url: "/lista-oggetti-proibiti/"
-  - title: "Cariche"
-    children:
-      - title: "Cariche Pubbliche"
-        url: "/cariche-pubbliche/"
-      - title: "Posizioni Aperte"
-        url: "/posizioni-aperte/"
+  - title: "Cariche pubbliche"
+    url: "/cariche-pubbliche/"
+  - title: "Posizioni Aperte"
+    url: "/posizioni-aperte/"
   - title: "Aziende"
     url: "/aziende/"
   - title: "Avvocati"
