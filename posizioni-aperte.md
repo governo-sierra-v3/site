@@ -37,12 +37,12 @@ description: Opportunità di lavoro nel Governo di Sierra V3
       </thead>
       <tbody>
         <tr>
-          <td>Giudice</td>
+          <td>Sostituto Giudice</td>
           <td>Corte giudiziaria</td>
           <td>Domande aperte</td>
         </tr>
         <tr>
-          <td>Procuratore distrettuale</td>
+          <td>Sostituto Procuratore distrettuale</td>
           <td>Procura</td>
           <td>Domande aperte</td>
         </tr>
@@ -85,7 +85,7 @@ description: Opportunità di lavoro nel Governo di Sierra V3
 
 <section class="content-section accent">
   <h2>Come candidarsi</h2>
-  <p>Scarica il bando di riferimento, prepara il curriculum in PDF e tieni pronti eventuali attestati professionali. Per inviare la domanda utilizza esclusivamente il modulo Google predisposto dal Governo di Sierra V3.</p>
+  <p>Scarica il bando di riferimento, prepara il curriculum e tieni pronti eventuali attestati professionali. Per inviare la domanda utilizza esclusivamente il modulo Google predisposto dal Governo di Sierra V3.</p>
   <div class="button-group">
     <a class="button primary" href="https://forms.gle/tnXpLG6Hr2aD4tSq7" target="_blank" rel="noopener">Apri il modulo Google</a>
   </div>

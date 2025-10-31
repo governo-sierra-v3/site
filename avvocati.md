@@ -15,6 +15,41 @@ description: Informazioni su avvocati privati e d'ufficio nella Sierra V3
 </section>
 
 <section class="content-section">
+  <h2>Avvocati registrati in città</h2>
+  <p>Elenco aggiornato degli avvocati con licenza attiva. Per modifiche o aggiornamenti scrivere a <a href="#">piffipiffo@discord.com</a>.</p>
+  <ul class="company-list">
+    <li>
+      <span class="company-name">Nome e Cognome</span>
+      <div class="company-meta">
+        <span>Numero di telefono</span>
+        <span>D'ufficio/Privato</span>
+      </div>
+    </li>
+    <li>
+      <span class="company-name">Nome e Cognome</span>
+      <div class="company-meta">
+        <span>Numero di telefono</span>
+        <span>D'ufficio/Privato</span>
+      </div>
+    </li>
+    <li>
+      <span class="company-name">Nome e Cognome</span>
+      <div class="company-meta">
+        <span>Numero di telefono</span>
+        <span>D'ufficio/Privato</span>
+      </div>
+    </li>
+    <li>
+      <span class="company-name">Nome e Cognome</span>
+      <div class="company-meta">
+        <span>Numero di telefono</span>
+        <span>D'ufficio/Privato</span>
+      </div>
+    </li>
+  </ul>
+</section>
+
+<section class="content-section">
   <h2>Avvocati d'ufficio</h2>
   <p>
     Gli avvocati d'ufficio operano come dipendenti diretti della Procura: la licenza professionale viene rilasciata e gestita
