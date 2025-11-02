@@ -8,6 +8,8 @@ permalink: pretty
 nav:
   - title: "Leggi"
     children:
+      - title: "Carta di San Andreas"
+        url: "/carta-di-san-andreas/"
       - title: "Codice Penale"
         url: "/codice-penale/"
       - title: "Codice di Procedura Penale"
