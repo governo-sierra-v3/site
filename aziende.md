@@ -22,7 +22,7 @@ description: Registrazione delle licenze aziendali nella Sierra V3
 
 <section class="content-section">
   <h2>Costi e composizione della tariffa</h2>
-  <p>La tariffa mensile è calcolata sommando quota base di settore, add-on facoltativi e sovrapprezzo in base alla classe di dipendenti dichiarata.</p>
+  <p>La tariffa mensile è calcolata sommando quota base di settore e sovrapprezzo in base alla classe di dipendenti dichiarata.</p>
   <div class="table-container">
     <table>
       <thead>
@@ -52,7 +52,6 @@ description: Registrazione delle licenze aziendali nella Sierra V3
     </table>
   </div>
   <ul class="license-details">
-    <li><strong>Add-on di licenza:</strong> vendita alcolici +$20.000/mese, vendita tabacchi +$10.000/mese (cumulabili).</li>
     <li><strong>Classi di dipendenti:</strong> micro (1–3) $0, piccola (4–8) +$20.000, media (9–14) +$50.000, grande (15+) +$100.000.</li>
     <li><strong>Scadenze e mora:</strong> rinnovo da completare entro 24 ore dalla scadenza; ritardi comportano mora del 25% (entro 24h) o del 50% con sospensione dell'attività oltre le 24 ore e fino a 7 giorni.</li>
   </ul>
