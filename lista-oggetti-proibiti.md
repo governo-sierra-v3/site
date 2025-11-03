@@ -22,12 +22,10 @@ description: lista di oggetti e armi proibiti o limitati
     d'arma crescenti: il <strong>Livello 1</strong> e il <strong>Livello 2</strong>
     sono i soli rilasciabili ai civili e abilitano rispettivamente all'uso delle
     armi previste per il loro livello e di quelle di livello inferiore. Il
-    <strong>Livello FDO Statale</strong> è riservato ai membri di
+    <strong>Livello FDO 1</strong> e il <strong>Livello FDO 2</strong> è riservato ai membri di
     <abbr title="Los Santos Police Department">LSPD</abbr> e
     <abbr title="Blaine County Sheriff's Office">BCSO</abbr>, mentre il
-    <strong>Livello FDO Federale</strong> è attribuibile esclusivamente a
-    <abbr title="Los Santos Secret Service">LSSS</abbr>,
-    <abbr title="Los Santos Marshals">LSM</abbr> e all'Esercito. Ogni livello
+    <strong>Livello FDO Esercito</strong> è attribuibile esclusivamente all'Esercito. Ogni livello
     superiore consente l'uso delle armi associate ai livelli inferiori.
   </p>
   <p>
