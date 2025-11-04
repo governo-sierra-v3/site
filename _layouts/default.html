@@ -74,5 +74,21 @@
         <p>Tutti i diritti riservati</p>
       </div>
     </footer>
+    <script>
+      (function () {
+        function updateYears() {
+          var year = new Date().getFullYear();
+          document.querySelectorAll('[data-current-year]').forEach(function (node) {
+            node.textContent = year;
+          });
+        }
+
+        if (document.readyState === 'loading') {
+          document.addEventListener('DOMContentLoaded', updateYears);
+        } else {
+          updateYears();
+        }
+      })();
+    </script>
   </body>
 </html>

@@ -455,6 +455,19 @@ h4 {
   text-align: center;
 }
 
+.footer-credits {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.4rem;
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+
+.footer-credits [data-current-year] {
+  font-variant-numeric: tabular-nums;
+}
+
 @media (max-width: 960px) {
   .nav-toggle-checkbox {
     display: block;
