@@ -67,10 +67,36 @@
       </div>
     </main>
 
-    <footer class="site-footer">
-      <div class="container">
-        <p>&copy; {{ "now" | date: "%Y" }} Governo di Sierra V3. Tutti i diritti riservati.</p>
+    <footer class="site-footer" role="contentinfo">
+      <div class="container footer-credits">
+        <p>
+          Logo e nome "Sierra V3" ©
+          <span data-current-year>{{ site.time | date: '%Y' }}</span>
+          MONDOTEKDONOprod.
+        </p>
+        <p>
+          Contenuti e struttura del sito ©
+          <span data-current-year>{{ site.time | date: '%Y' }}</span>
+          Piffipiffo
+        </p>
+        <p>Tutti i diritti riservati</p>
       </div>
     </footer>
+    <script>
+      (function () {
+        function updateYears() {
+          var year = new Date().getFullYear();
+          document.querySelectorAll('[data-current-year]').forEach(function (node) {
+            node.textContent = year;
+          });
+        }
+
+        if (document.readyState === 'loading') {
+          document.addEventListener('DOMContentLoaded', updateYears);
+        } else {
+          updateYears();
+        }
+      })();
+    </script>
   </body>
 </html>
