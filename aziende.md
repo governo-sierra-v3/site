@@ -92,6 +92,14 @@ description: Registrazione delle licenze aziendali nella Sierra V3
   </ul>
 </section>
 
+<section class="content-section">
+  <h2>Leggi il regolamento prima di procedere</h2>
+  <p>Prima di compilare la domanda assicurati di aver consultato attentamente il regolamento dedicato alle attività private, in modo da rispettare requisiti, tempi e obblighi previsti.</p>
+  <div class="button-group">
+    <a class="button secondary" href="{{ '/regolamento-attivita-private/' | relative_url }}">Apri il regolamento attività private</a>
+  </div>
+</section>
+
 <section class="content-section accent">
   <h2>Invia la richiesta di licenza</h2>
   <p>Compila il modulo Google dedicato per inoltrare la tua richiesta. È necessario allegare tutta la documentazione indicata e un recapito telefonico per essere ricontattati dagli uffici.</p>
