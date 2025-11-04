@@ -67,18 +67,10 @@
       </div>
     </main>
 
-    <footer class="site-footer" role="contentinfo">
-      <div class="container footer-credits">
-        <p>
-          Logo e nome "Sierra V3" ©
-          <span data-current-year>{{ site.time | date: '%Y' }}</span>
-          MONDOTEKDONOprod.
-        </p>
-        <p>
-          Contenuti e struttura del sito ©
-          <span data-current-year>{{ site.time | date: '%Y' }}</span>
-          Piffipiffo
-        </p>
+    <footer class="site-footer">
+      <div class="container">
+        <p>Logo e nome "Sierra V3" © {{ "now" | date: "%Y" }} MONDOTEKDONOprod.</p>
+        <p>Contenuti e struttura del sito © {{ "now" | date: "%Y" }} Piffipiffo</p>
         <p>Tutti i diritti riservati</p>
       </div>
     </footer>
