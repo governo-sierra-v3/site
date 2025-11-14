@@ -69,24 +69,24 @@ description: Registrazione delle licenze aziendali nella Sierra V3
       </div>
     </li>
     <li>
-      <span class="company-name">Los Santos Logistics</span>
+      <span class="company-name">nome attività</span>
       <div class="company-meta">
-        <span>Civico 101</span>
-        <span>Logistica e trasporti</span>
+        <span>Civ. 100</span>
+        <span>Settore prevalente</span>
       </div>
     </li>
     <li>
-      <span class="company-name">Sierra Medical Partners</span>
+      <span class="company-name">nome attività</span>
       <div class="company-meta">
-        <span>Civico 220</span>
-        <span>Servizi sanitari privati</span>
+        <span>Civ. 100</span>
+        <span>Settore prevalente</span>
       </div>
     </li>
     <li>
-      <span class="company-name">Gold Coast Entertainment</span>
+      <span class="company-name">nome attività</span>
       <div class="company-meta">
-        <span>Civico 45</span>
-        <span>Eventi e spettacolo</span>
+        <span>Civ. 100</span>
+        <span>Settore prevalente</span>
       </div>
     </li>
   </ul>
