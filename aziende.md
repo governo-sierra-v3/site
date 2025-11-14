@@ -6,7 +6,7 @@ description: Registrazione delle licenze aziendali nella Sierra V3
 
 <section class="content-section">
   <h2>Registrazione licenze aziendali</h2>
-  <p>Questa sezione è dedicata alle imprese che operano nella Sierra V3 e necessitano di ottenere o aggiornare la licenza commerciale mensile prevista dal <a href="{{ '/regolamento-attivita-private/' | relative_url }}">Regolamento Attività Private</a>. Il Dipartimento Imprese accompagna ogni società nella raccolta dei documenti e nella verifica dei requisiti necessari all'attività economica.</p>
+  <p>Questa sezione è dedicata alle imprese che operano nella Sierra V3 e necessitano di ottenere o aggiornare la licenza commerciale mensile prevista dal <a href="{{ '/regolamento-attivita-private/' | relative_url }}" style="text-decoration: underline;">Regolamento Attività Private</a>. Il Dipartimento Imprese accompagna ogni società nella raccolta dei documenti e nella verifica dei requisiti necessari all'attività economica.</p>
   <p>Consulta le informazioni riportate di seguito per preparare la domanda: troverai i requisiti obbligatori, la struttura delle tariffe e l'elenco delle aziende già autorizzate in città.</p>
 </section>
 
