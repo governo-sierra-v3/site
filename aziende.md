@@ -34,19 +34,19 @@ description: Registrazione delle licenze aziendali nella Sierra V3
       <tbody>
         <tr>
           <td>Bar/Ristoranti</td>
-          <td>$60.000</td>
+          <td>????</td>
         </tr>
         <tr>
           <td>Meccanici</td>
-          <td>$80.000</td>
+          <td>????</td>
         </tr>
         <tr>
           <td>Concessionari</td>
-          <td>$40.000</td>
+          <td>????</td>
         </tr>
         <tr>
           <td>Armerie</td>
-          <td>$100.000</td>
+          <td>????</td>
         </tr>
       </tbody>
     </table>
