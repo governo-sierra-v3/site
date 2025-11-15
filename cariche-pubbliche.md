@@ -95,7 +95,7 @@ description: Organigramma istituzionale del Governo di Sierra V3
       </figure>
       <div class="role-content">
         <h3>Direttore BIO</h3>
-        <p class="role-holder">In carica: <span>Unknown</span></p>
+        <p class="role-holder">In carica: <span>Edward Knox</span></p>
         <p>Gestisce la sezione BIO dello stato di San Andreas, prende ordini diretti solo dal Procuratore Generale per quanto concerne segnalazioni, in altre situazioni agisce in autonomia, supervisiona tutte le operazioni e coordina le assegnazioni dei vari compiti</p>
       </div>
     </article>
