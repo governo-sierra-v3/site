@@ -19,24 +19,25 @@ description: Informazioni su avvocati privati e d'ufficio nella Sierra V3
   <p>Elenco aggiornato degli avvocati con licenza attiva. Per modifiche o aggiornamenti scrivere a <a href="#">piffipiffo@discord.com</a>.</p>
   <ul class="company-list">
     <li>
-      <span class="company-name">Nome e Cognome</span>
+      <span class="company-name">Wei Zhang - 25/11/2000</span>
       <div class="company-meta">
-        <span>Numero di telefono</span>
-        <span>D'ufficio/Privato</span>
+        <span>Num: (Privato)</span>
+        <span>Avv. Privato</span>
+      </div>
+      <div class="company-meta">
+        <span>Civile e Penale</span>
+        <span>bar number: 0001247</span>
       </div>
     </li>
     <li>
-      <span class="company-name">Nome e Cognome</span>
+      <span class="company-name">Takumi Fujiiwara - 17/11/2000</span>
       <div class="company-meta">
-        <span>Numero di telefono</span>
-        <span>D'ufficio/Privato</span>
+        <span>Num: (480) 883-2272</span>
+        <span>Avv. Privato</span>
       </div>
-    </li>
-    <li>
-      <span class="company-name">Nome e Cognome</span>
       <div class="company-meta">
-        <span>Numero di telefono</span>
-        <span>D'ufficio/Privato</span>
+        <span>Civile e Penale</span>
+        <span>bar number: 0001256</span>
       </div>
     </li>
     <li>
