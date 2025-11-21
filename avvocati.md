@@ -40,13 +40,6 @@ description: Informazioni su avvocati privati e d'ufficio nella Sierra V3
         <span>bar number: 0001256</span>
       </div>
     </li>
-    <li>
-      <span class="company-name">Nome e Cognome</span>
-      <div class="company-meta">
-        <span>Numero di telefono</span>
-        <span>D'ufficio/Privato</span>
-      </div>
-    </li>
   </ul>
 </section>
 
