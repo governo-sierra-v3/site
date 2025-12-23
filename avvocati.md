@@ -51,6 +51,28 @@ description: Informazioni su avvocati privati e d'ufficio nella Sierra V3
         <span>bar number: 0001268</span>
       </div>
     </li>
+    <li>
+      <span class="company-name">Carlo Lo Russo - 17/02/1995</span>
+      <div class="company-meta">
+        <span>Num: (520) 280-5971</span>
+        <span>Avv. Privato</span>
+      </div>
+      <div class="company-meta">
+        <span>Civile e Penale</span>
+        <span>bar number: 0001273</span>
+      </div>
+    </li>
+    <li>
+      <span class="company-name">Roberto Lo Russo - 01/12/1985</span>
+      <div class="company-meta">
+        <span>Mail: @mignottingham</span>
+        <span>Avv. Privato</span>
+      </div>
+      <div class="company-meta">
+        <span>Civile e Penale</span>
+        <span>bar number: 0001285</span>
+      </div>
+    </li>
   </ul>
 </section>
 
