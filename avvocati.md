@@ -80,7 +80,7 @@ description: Informazioni su avvocati privati e d'ufficio nella Sierra V3
   <h2>Consulta il regolamento avvocati</h2>
   <p>Prima di proseguire con la candidatura rileggi il regolamento professionale per verificare requisiti, doveri e tempistiche previsti per l'iscrizione all'albo.</p>
   <div class="button-group">
-    <a class="button secondary" href="{{ '/regolamento-avvocati/' | relative_url }}">Leggi il regolamento avvocati</a>
+    <a class="button primary" href="{{ '/regolamento-avvocati/' | relative_url }}">Leggi il regolamento avvocati</a>
   </div>
 </section>
 
