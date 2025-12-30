@@ -17,7 +17,7 @@ description: Portale istituzionale per cittadini, imprese e pubblica amministraz
   </div>
 </section>
 
-<section class="hero-vota">
+<section class="hero">
   <div class="hero-inner">
     <h1 class="hero-title">Votazioni per il Senato</h1>
     <p class="hero-lead">Un unico punto di accesso per conoscere le leggi, esplorare le cariche pubbliche e collaborare con l'amministrazione della Sierra V3.</p>
