@@ -20,7 +20,13 @@ description: Portale istituzionale per cittadini, imprese e pubblica amministraz
 <section class="hero">
   <div class="hero-inner">
     <h1 class="hero-title">Votazioni per il Senato</h1>
-    <p class="hero-lead">Un unico punto di accesso per conoscere le leggi, esplorare le cariche pubbliche e collaborare con l'amministrazione della Sierra V3.</p>
+    <p class="hero-lead">Le votazioni per l’elezione del Senato Consultivo dello Stato di San Andreas non sono ancora aperte.
+
+        Il periodo di voto sarà attivo dalle ore 00:00 del 1 gennaio 2026
+        alle ore 24:00 del 4 gennaio 2026.
+
+        Ti invitiamo a tornare durante l’intervallo indicato per esprimere la tua preferenza.
+  </p>
     <div class="hero-actions">
       <a class="button primary" href="">VOTAZIONE NON ANCORA APERTA</a>
     </div>
