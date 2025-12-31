@@ -40,7 +40,7 @@ description: Organigramma istituzionale del Governo di Sierra V3
     </article>
     <article class="department-card role-card">
       <figure class="role-media">
-        <img src="{{ '/assets/images/jonny-cash.png' | relative_url }}" alt="Ritratto del Segretario delle Finanze" loading="lazy" />
+        <img src="{{ '/assets/images/placeholder-portrait.png' | relative_url }}" alt="Ritratto del Segretario delle Finanze" loading="lazy" />
       </figure>
       <div class="role-content">
         <h3>Head of Government Relations</h3>
