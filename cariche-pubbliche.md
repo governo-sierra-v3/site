@@ -30,12 +30,22 @@ description: Organigramma istituzionale del Governo di Sierra V3
     </article>
     <article class="department-card role-card">
       <figure class="role-media">
-        <img src="{{ '/assets/images/jonny-cash.png' | relative_url }}" alt="Ritratto del Segretario delle Finanze" loading="lazy" />
+        <img src="{{ '/assets/images/placeholder-portrait.png' | relative_url }}" alt="Ritratto del Segretario delle Finanze" loading="lazy" />
       </figure>
       <div class="role-content">
         <h3>Segretario delle Finanze</h3>
         <p class="role-holder">In carica: <span>Jonny Cash</span></p>
         <p>Gestisce il bilancio statale, supervisiona la spesa pubblica e coordina la pianificazione economica.</p>
+      </div>
+    </article>
+    <article class="department-card role-card">
+      <figure class="role-media">
+        <img src="{{ '/assets/images/jonny-cash.png' | relative_url }}" alt="Ritratto del Segretario delle Finanze" loading="lazy" />
+      </figure>
+      <div class="role-content">
+        <h3>Head of Government Relations</h3>
+        <p class="role-holder">In carica: <span>Dakota Forbes</span></p>
+        <p>Responsabile delle Relazioni Istituzionali.</p>
       </div>
     </article>
   </div>
@@ -61,7 +71,17 @@ description: Organigramma istituzionale del Governo di Sierra V3
       </figure>
       <div class="role-content">
         <h3>Vice Procuratore Generale</h3>
-        <p class="role-holder">In carica: <span>Fabio Muller</span></p>
+        <p class="role-holder">In carica: <span>Vacante</span></p>
+        <p>Affianca il Procuratore Generale, cura i rapporti con gli uffici periferici e garantisce la continuità operativa.</p>
+      </div>
+    </article>
+    <article class="department-card role-card">
+      <figure class="role-media">
+        <img src="{{ '/assets/images/placeholder-portrait.png' | relative_url }}" alt="Ritratto del Vice Procuratore Generale" loading="lazy" />
+      </figure>
+      <div class="role-content">
+        <h3>Procuratore Distrettuale</h3>
+        <p class="role-holder">In carica: <span>Stephen Murphy</span></p>
         <p>Affianca il Procuratore Generale, cura i rapporti con gli uffici periferici e garantisce la continuità operativa.</p>
       </div>
     </article>
@@ -79,6 +99,16 @@ description: Organigramma istituzionale del Governo di Sierra V3
       <div class="role-content">
         <h3>Giudice Generale</h3>
         <p class="role-holder">In carica: <span>Giorgia Watermelon</span></p>
+        <p>Presiede le udienze di maggiore rilievo, coordina l'attività dei giudici togati e vigila sulla coerenza delle sentenze.</p>
+      </div>
+    </article>
+    <article class="department-card role-card">
+      <figure class="role-media">
+        <img src="{{ '/assets/images/placeholder-portrait.png' | relative_url }}" alt="Ritratto del Giudice Generale" loading="lazy" />
+      </figure>
+      <div class="role-content">
+        <h3>Giudice</h3>
+        <p class="role-holder">In carica: <span>Tom Riddler</span></p>
         <p>Presiede le udienze di maggiore rilievo, coordina l'attività dei giudici togati e vigila sulla coerenza delle sentenze.</p>
       </div>
     </article>
