@@ -14,17 +14,17 @@ description: Organigramma istituzionale del Governo di Sierra V3
       </figure>
       <div class="role-content">
         <h3>Governatore</h3>
-        <p class="role-holder">In carica: <span>Mario Dragons</span></p>
+        <p class="role-holder">In carica: <span>Barack Hobama</span></p>
         <p>Rappresenta l'esecutivo, definisce l'agenda politica e assicura il coordinamento tra i dipartimenti dell'amministrazione.</p>
       </div>
     </article>
     <article class="department-card role-card">
       <figure class="role-media">
-        <img src="{{ '/assets/images/abradolf-lincler.png' | relative_url }}" alt="Ritratto del Vice Governatore" loading="lazy" />
+        <img src="{{ '/assets/images/placeholder-portrait.png' | relative_url }}" alt="Ritratto del Vice Governatore" loading="lazy" />
       </figure>
       <div class="role-content">
         <h3>Vice Governatore</h3>
-        <p class="role-holder">In carica: <span>Abradolf Lincler</span></p>
+        <p class="role-holder">In carica: <span>Vacante</span></p>
         <p>Supporta il Governatore nelle funzioni strategiche e ne garantisce la supplenza in caso di assenza o impedimento.</p>
       </div>
     </article>
