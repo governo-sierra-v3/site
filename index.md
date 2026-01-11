@@ -17,25 +17,6 @@ description: Portale istituzionale per cittadini, imprese e pubblica amministraz
   </div>
 </section>
 
-<section class="hero">
-  <div class="hero-inner">
-    <h1 class="hero-title">Votazioni per il Senato</h1>
-    <p class="hero-lead">Sono aperte le votazioni per l’elezione del Senato Consultivo dello Stato di San Andreas.<br>
-<br>
-        Ogni cittadino può esprimere fino a un massimo di una (1) preferenza.<br>
-        La votazione è anonima, personale e non ripetibile.<br>
-<br>
-        Il periodo di voto sarà attivo dalle ore 00:00 del 1 gennaio 2026<br>
-        alle ore 24:00 del 4 gennaio 2026.<br>
-<br>
-        Clicca sul pulsante sottostante per accedere al modulo di voto.<br>
-  </p>
-    <div class="hero-actions">
-      <a class="button primary" href="https://forms.gle/R5mME8Nh63QoTTJw7" target="_blank" rel="noopener">LINK AL VOTO</a>
-    </div>
-  </div>
-</section>
-
 <section class="home-grid">
   <article class="info-card">
     <h3>Trasparenza normativa</h3>
