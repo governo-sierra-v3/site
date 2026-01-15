@@ -1,12 +1,12 @@
 ---
 layout: default
 title: Posizioni Aperte
-description: Opportunità di lavoro nel Governo di Sierra V3
+description: Opportunità di lavoro nel Governo
 ---
 
 <section class="content-section">
   <h2>Lavora con noi</h2>
-  <p>Unisciti alle strutture del Governo di Sierra V3 per contribuire al funzionamento della giustizia e alla tutela dei cittadini. Cerchiamo professionisti motivati a operare con rigore e senso del servizio pubblico.</p>
+  <p>Unisciti alle strutture del Governo per contribuire al funzionamento della giustizia e alla tutela dei cittadini. Cerchiamo professionisti motivati a operare con rigore e senso del servizio pubblico.</p>
   <div class="highlight-grid">
     <article class="highlight-card" data-icon="⚖️">
       <h3>Corte giudiziaria</h3>

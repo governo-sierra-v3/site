@@ -1,12 +1,12 @@
 ---
 layout: default
 title: Cariche Pubbliche
-description: Organigramma istituzionale del Governo di Sierra V3
+description: Organigramma istituzionale del Governo
 ---
 
 <section class="content-section">
   <h2>Governo</h2>
-  <p>Il Governo della Sierra V3 coordina l'azione esecutiva e garantisce l'attuazione delle politiche pubbliche definite dal Parlamento.</p>
+  <p>Il Governo coordina l'azione esecutiva e garantisce l'attuazione delle politiche pubbliche definite dal Parlamento.</p>
   <div class="governance-grid role-grid">
     <article class="department-card role-card">
       <figure class="role-media">

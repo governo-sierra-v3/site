@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Segnalazioni
-description: Strumenti per inviare segnalazioni al Governo di Sierra V3
+description: Strumenti per inviare segnalazioni al Governo
 ---
 
 <section class="content-section">

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Regolamento Attività Private
-description: Norme su licenze, obblighi e sanzioni per le imprese private della Sierra V3
+description: Norme su licenze, obblighi e sanzioni per le imprese private
 ---
 
 <section class="content-section">

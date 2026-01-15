@@ -8,7 +8,7 @@ description: Regolamento per avvocati privati e d'ufficio
   <h2>Regolamento in vigore per avvocati privati e d'ufficio</h2>
   <p>
     Il presente regolamento riassume requisiti, doveri professionali e norme deontologiche che disciplinano l'accesso e lo
-    svolgimento della professione forense nella Sierra V3, con particolare attenzione alle procedure di rilascio delle licenze
+    svolgimento della professione forense, con particolare attenzione alle procedure di rilascio delle licenze
     e alle responsabilità verso i cittadini assistiti.
   </p>
   <div class="button-group">

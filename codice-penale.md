@@ -1,13 +1,13 @@
 ---
 layout: default
 title: Codice Penale
-description: Quadro normativo penale del Governo di Sierra V3
+description: Quadro normativo penale del Governo
 ---
 
 <section class="content-section">
   <div class="badge" aria-hidden="true">Tutela dei diritti</div>
   <h2>Principi generali</h2>
-  <p>Il Codice Penale della Sierra V3 definisce reati e pene, tutelando la sicurezza collettiva e i diritti fondamentali dei cittadini. Ogni intervento legislativo viene approvato dal Parlamento e pubblicato in Gazzetta Ufficiale.</p>
+  <p>Il Codice Penale definisce reati e pene, tutelando la sicurezza collettiva e i diritti fondamentali dei cittadini. Ogni intervento legislativo viene approvato dal Parlamento e pubblicato in Gazzetta Ufficiale.</p>
 </section>
 
 <section class="content-section">

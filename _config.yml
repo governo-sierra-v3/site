@@ -1,6 +1,6 @@
-# Configurazione principale del sito Governo Sierra V3
-title: "Governo di Sierra V3"
-description: "Portale istituzionale del Governo di Sierra V3"
+# Configurazione principale del sito Governo GalloLoco
+title: "Governo di GalloLoco"
+description: "Portale istituzionale del Governo di GalloLoco"
 url: ""
 baseurl: "/site"
 permalink: pretty

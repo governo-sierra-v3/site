@@ -1,15 +1,15 @@
 ---
 layout: default
 title: Benvenuto
-description: Portale istituzionale per cittadini, imprese e pubblica amministrazione della Sierra V3
+description: Portale istituzionale per cittadini, imprese e pubblica amministrazione
 ---
 
 <section class="hero">
   <div class="hero-inner">
     <div class="hero-logo" role="presentation"></div>
-    <p class="hero-kicker">Governo di Sierra V3</p>
-    <h1 class="hero-title">Benvenuti nel portale istituzionale</h1>
-    <p class="hero-lead">Un unico punto di accesso per conoscere le leggi, esplorare le cariche pubbliche e collaborare con l'amministrazione della Sierra V3.</p>
+    <p class="hero-kicker">Governo di GalloLoco</p>
+    <h1 class="hero-title">ATTENZIONE</h1>
+    <p class="hero-lead">Entro 48 ore il sito verrà eliminato e tutti i contenuti al suo interno saranno resi privati</p>
     <div class="hero-actions">
       <a class="button primary" href="{{ '/codice-penale/' | relative_url }}">Consulta le leggi</a>
       <a class="button ghost" href="{{ '/cariche-pubbliche/' | relative_url }}">Scopri le cariche</a>

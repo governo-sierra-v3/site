@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Avvocati
-description: Informazioni su avvocati privati e d'ufficio nella Sierra V3
+description: Informazioni su avvocati privati e d'ufficio
 ---
 
 <section class="content-section">
