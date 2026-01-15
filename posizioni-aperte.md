@@ -85,7 +85,7 @@ description: Opportunità di lavoro nel Governo
 
 <section class="content-section accent">
   <h2>Come candidarsi</h2>
-  <p>Scarica il bando di riferimento, prepara il curriculum e tieni pronti eventuali attestati professionali. Per inviare la domanda utilizza esclusivamente il modulo Google predisposto dal Governo di Sierra V3.</p>
+  <p>Scarica il bando di riferimento, prepara il curriculum e tieni pronti eventuali attestati professionali. Per inviare la domanda utilizza esclusivamente il modulo Google predisposto dal Governo.</p>
   <div class="button-group">
     <a class="button primary" href="https://forms.gle/tnXpLG6Hr2aD4tSq7" target="_blank" rel="noopener">Apri il modulo Google</a>
   </div>
